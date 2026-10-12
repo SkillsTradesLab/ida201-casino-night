@@ -1,0 +1,214 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Teaching Lesson | IDA201 Casino Night</title><link rel="stylesheet" href="styles.css"></head><body><header><div class="brand">SKILLS TRADES LAB<b>IDA201 Teaching Lesson</b></div><nav><a href="teacher.html">Teacher table</a><a href="question-bank.html">Question pool</a></nav></header><main class="lesson-page"><p><button class="secondary" onclick="document.querySelectorAll(&quot;details&quot;).forEach(d=>d.open=true);window.print()">Print this teaching lesson</button></p>
+<section class="panel" id="part-1"><div class="eyebrow">120 minute class with 90 minutes of instruction</div><h2>IDA201 Casino Night Teaching Lesson</h2><p>Teach the construction and operation of common HVAC motors before students apply that knowledge in Casino Night. Begin with Chapter 5 controls, then follow the Chapter 8 motor sequence. Use simple board calculations and short checks rather than a live electrical test.</p>
+<h3>Learning targets</h3><ul>
+<li>Identify a stator, rotor, windings, shaft, and bearings and explain their roles.</li>
+<li>Distinguish shaded pole, split phase, capacitor start, PSC, CSR, three phase, ECM, and constant torque designs.</li>
+<li>Match motor features to a small fan, blower, pump, or compressor application.</li>
+<li>Calculate synchronous speed, simple capacitor combinations, and compressor winding resistance sums.</li>
+<li>Explain how a relay, contactor, starter, switch, and protective device control a motor.</li>
+</ul>
+<h3>Class sequence</h3><div class="table-scroll"><table>
+<tr><th>Minutes</th><th>Topic</th></tr>
+<tr><td>0 to 10</td><td>Chapter 5 controls and circuit review</td></tr>
+<tr><td>10 to 20</td><td>Magnetism and basic motor construction</td></tr>
+<tr><td>20 to 30</td><td>Shaded pole motors</td></tr>
+<tr><td>30 to 42</td><td>Resistance start split phase and capacitor start</td></tr>
+<tr><td>42 to 55</td><td>PSC and CSR motors</td></tr>
+<tr><td>55 to 60</td><td>Three phase motors</td></tr>
+<tr><td>60 to 68</td><td>ECM constant torque and brushless motor controls</td></tr>
+<tr><td>68 to 83</td><td>Simple calculations and diagnosis</td></tr>
+<tr><td>83 to 90</td><td>Knowledge check and game instructions</td></tr>
+<tr><td>90 to 115</td><td>Casino Night with 20 hands</td></tr>
+<tr><td>115 to 120</td><td>Exit check and explanation of common misses</td></tr>
+</table></div>
+<p><b>Prepare.</b> Project the teacher portal. Bring unpowered motor or capacitor samples, their labels or photos, a whiteboard, and a calculator. Students need individual browser devices. Plan a connection test before class.</p>
+<p><b>Timing.</b> The 25 minute game estimate allows roughly 30 seconds answering, 10 seconds wagering, and 35 seconds reviewing per hand. Wager and review periods are teacher paced; shorten review or use 10 hands if time is tight.</p>
+<p class="tiny muted"><b>Source.</b> Teaching sequence based on Chapters 5 and 8 and the supplied IDA201 review.</p></section>
+<section class="panel" id="part-2"><div class="eyebrow">0 to 10 minutes   Chapter 5 review</div><h2>Controls That Start and Protect Motors</h2><p>Connect the earlier circuitry lesson to the motor lesson: controls decide when a motor runs, but the motor is the load doing the work.</p>
+<h3>Teaching and talking points</h3>
+<p><b>Say.</b> A load uses electricity to do useful work. A motor gives us rotation, a heater gives us heat, and a solenoid gives us magnetic action.</p>
+<p><b>Trace the command.</b> Draw a simple path from a control supply through a thermostat and safety switch to a contactor coil. When the path is complete, the coil energizes and its power contacts can supply the motor.</p>
+<p><b>Explain normal.</b> Normally means de-energized. A normally open relay contact closes when its coil energizes; a normally closed relay contact opens. Pole means one switched contact set. Throw describes the selectable connection paths.</p>
+<p><b>Distinguish protection.</b> A plain contactor switches power. A magnetic starter adds overload protection. A fuse interrupts excessive current; thermal overloads respond to heat and magnetic overloads respond to magnetic action associated with current.</p>
+<p><b>Use the right diagram.</b> Trace how the circuit works on a schematic, locate parts on a pictorial, and use an installation diagram for field hookup details. A factual diagram combines schematic and pictorial views.</p>
+<p><b>Class activity.</b> Have students trace the start command aloud: thermostat closes, coil energizes, contacts close, motor runs. Then open the safety contact on your drawing and ask what stops.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> Which device is the load in a compressor power circuit?<br><b>Answer.</b> The compressor motor; it converts electrical input into mechanical output.</p>
+<p><b>Ask.</b> What does a starter add to a plain contactor?<br><b>Answer.</b> Motor overload protection.</p>
+<p><b>Ask.</b> An NO contact loses coil power. What should it do?<br><b>Answer.</b> Return to the open position.</p>
+<p><b>Ask.</b> Where should an unfamiliar letter designation be checked?<br><b>Answer.</b> The equipment drawing legend.</p>
+<p><b>Rating reminder.</b> The review uses 20 amperes or more as a general contactor convention. For actual equipment selection, use the device nameplate and manufacturer ratings.</p>
+<p class="tiny muted"><b>Source.</b> Chapter 5 sections 5.1 to 5.9; supplied review Chapter 5 questions 1 to 38.</p></section>
+<section class="panel" id="part-3"><div class="eyebrow">10 to 20 minutes   Chapter 8 sections 8.1 to 8.3</div><h2>Magnetism and Motor Construction</h2><p>A motor converts electrical energy into mechanical energy. Torque is turning strength; rpm describes how fast the shaft turns. They are different ideas.</p>
+<h3>Motor parts</h3><div class="table-scroll"><table>
+<tr><th>Part</th><th>Function</th></tr>
+<tr><td>Stator</td><td>Stationary assembly carrying the main magnetic structure and windings.</td></tr>
+<tr><td>Rotor</td><td>Rotating assembly inside the stator; produces shaft rotation.</td></tr>
+<tr><td>Windings</td><td>Insulated conducting coils that establish magnetic fields when energized.</td></tr>
+<tr><td>Shaft and bearings</td><td>Shaft carries the output; bearings support it and allow rotation.</td></tr>
+<tr><td>Frame or enclosure</td><td>Supports and protects the assembly; construction depends on the application.</td></tr>
+</table></div>
+<h3>Teaching and talking points</h3>
+<p><b>Say.</b> Like magnetic poles repel and unlike poles attract. A current carrying coil produces a magnetic field. An iron core provides a good path for magnetic flux.</p>
+<p><b>Build the picture.</b> Draw an outer stator ring, an inner rotor, and a shaft through the center. Label the fixed and moving parts. The stator field interacts with the rotor to produce torque.</p>
+<p><b>Compare rotors.</b> A squirrel cage induction rotor has conducting bars joined by end rings. The stator field induces rotor currents and magnetism. An ECM instead uses permanent magnets on its rotor.</p>
+<p><b>Connect to applications.</b> A small propeller fan needs relatively little starting torque. A loaded compressor or pump may need more. Choose a motor for the mechanical load, supply, and required operation.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> What stays stationary?<br><b>Answer.</b> The stator.</p>
+<p><b>Ask.</b> What turns?<br><b>Answer.</b> The rotor and its shaft.</p>
+<p><b>Ask.</b> What forms the squirrel cage?<br><b>Answer.</b> Conductive bars connected by end rings.</p>
+<p><b>Ask.</b> Is a 1750 rpm rating a torque rating?<br><b>Answer.</b> No. It describes rotational speed, not turning strength.</p>
+<p class="tiny muted"><b>Source.</b> Chapter 8 sections 8.1 to 8.3.</p></section>
+<section class="panel" id="part-4"><div class="eyebrow">20 to 30 minutes   Chapter 8 section 8.4</div><h2>Shaded Pole Motors</h2><p>Use a small propeller fan as the example. This motor is simple and inexpensive, but its starting torque is small.</p>
+<h3>Teaching and talking points</h3>
+<p><b>Construction.</b> A typical single speed design has a main stator winding, a squirrel cage rotor, and a closed copper shading band around part of each stator pole. It does not use the start and run capacitor arrangement of a PSC or CSR motor.</p>
+<p><b>Starting action.</b> Current induced in the shading band shifts the magnetic action in the shaded section. That produces a weak starting sweep from the unshaded side toward the shaded side.</p>
+<p><b>Say.</b> The copper band gives the motor a small starting push. It is a good match for a light fan load, not our usual choice for a heavily loaded compressor.</p>
+<p><b>Direction.</b> The physical position of the shaded sections determines starting direction. Swapping the two supply wires does not provide the usual reversal method. Reversal may require a suitable design and disassembly.</p>
+<p><b>Typical example.</b> A small propeller fan in light duty air movement. Match the actual manufacturer application; the example identifies the low torque load, not every fan motor.</p>
+<p><b>Diagnosis idea.</b> A stalled motor is not automatically an open winding. A stiff shaft or bearing problem can keep an electrically intact motor from turning.</p>
+<p><b>Class activity.</b> Show an unpowered shaded pole sample or its picture. Ask students to find the copper band and trace the direction from the unshaded area toward the shaded area.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> What feature helps identify this motor?<br><b>Answer.</b> Copper shading bands.</p>
+<p><b>Ask.</b> Does it provide high starting torque?<br><b>Answer.</b> No; it suits low starting torque applications.</p>
+<p><b>Ask.</b> Would swapping the two supply wires normally reverse it?<br><b>Answer.</b> No; starting direction depends on the shading position.</p>
+<p><b>Memory cue.</b> Shaded pole means copper shade and a small starting push.</p>
+<p class="tiny muted"><b>Source.</b> Chapter 8 section 8.4; supplied review Chapter 8 questions 3 6 9 27 and 32.</p></section>
+<section class="panel" id="part-5"><div class="eyebrow">30 to 42 minutes   Chapter 8 sections 8.5 and 8.6</div><h2>Split Phase and Capacitor Start Motors</h2><p>Both designs use main and auxiliary windings to create phase displacement during starting. The capacitor start design adds capacitance to increase starting torque.</p>
+<h3>Compare the designs</h3><div class="table-scroll"><table>
+<tr><th>Design</th><th>Main starting components</th><th>After acceleration</th><th>Example application</th></tr>
+<tr><td>Resistance start split phase</td><td>Run winding plus start winding and a starting switch</td><td>Start branch removed at about 75 percent of full speed</td><td>Belt driven blower or a suitable small pump</td></tr>
+<tr><td>Capacitor start induction run</td><td>Run winding plus start winding start capacitor and starting switch</td><td>Start winding and start capacitor removed</td><td>A pump or heavier starting load needing higher start torque</td></tr>
+</table></div>
+<h3>Teaching and talking points</h3>
+<p><b>Say.</b> The motor needs a way to get moving. Two winding currents displaced in phase give it that starting action. In a resistance start motor, winding construction creates the displacement. In a capacitor start motor, the capacitor increases it.</p>
+<p><b>Construction.</b> The start winding in the chapter resistance start design uses smaller wire and more turns than the run winding. An open motor commonly uses a centrifugal switch. A hermetic compressor uses external starting apparatus rather than a switch inside the sealed shell.</p>
+<p><b>At speed.</b> At approximately 75 percent of full speed, the starting device removes the temporary starting branch. The run winding continues operating.</p>
+<p><b>Start capacitor.</b> A start capacitor is built for brief starting duty, not permanent connection. A starting device that leaves it energized can overheat the start components.</p>
+<p><b>Contrast examples.</b> A belt driven blower may use a split phase motor when its starting demand is suitable. A pump needing a stronger start may use a capacitor start motor. The load and manufacturer design determine the choice.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> Which design adds a capacitor for higher starting torque?<br><b>Answer.</b> Capacitor start.</p>
+<p><b>Ask.</b> Which winding normally keeps running in a resistance start design?<br><b>Answer.</b> The run winding.</p>
+<p><b>Ask.</b> What happens if the starting switch stays closed?<br><b>Answer.</b> The starting branch stays energized, current can rise, and an overload may trip.</p>
+<p class="tiny muted"><b>Source.</b> Chapter 8 sections 8.5 and 8.6.</p></section>
+<section class="panel" id="part-6"><div class="eyebrow">42 to 55 minutes   Chapter 8 sections 8.7 and 8.8</div><h2>PSC and CSR Motors</h2><p>Teach what stays connected and what is removed. PSC uses a permanent run capacitor. CSR combines temporary starting capacitance with permanent running capacitance.</p>
+<h3>Compare the designs</h3><div class="table-scroll"><table>
+<tr><th>Feature</th><th>PSC</th><th>CSR</th></tr>
+<tr><td>Full name</td><td>Permanent split capacitor</td><td>Capacitor start capacitor run</td></tr>
+<tr><td>Windings</td><td>Main and auxiliary windings</td><td>Main and auxiliary windings</td></tr>
+<tr><td>Capacitors</td><td>One run capacitor in the auxiliary branch</td><td>Start capacitor plus run capacitor</td></tr>
+<tr><td>After starting</td><td>Run capacitor and auxiliary winding remain</td><td>Start capacitor removed; run capacitor and auxiliary winding remain</td></tr>
+<tr><td>Typical example</td><td>Direct drive blower or condenser fan; some compressor applications</td><td>Hermetic compressor needing higher starting torque and good running operation</td></tr>
+</table></div>
+<h3>Teaching and talking points</h3>
+<p><b>Say.</b> PSC means permanent: the run capacitor stays. CSR uses one capacitor to help start and another that keeps helping during the run.</p>
+<p><b>Construction detail.</b> A PSC run capacitor is in series with its auxiliary winding. That branch operates alongside the main winding. There is no normal centrifugal switch removing the PSC auxiliary winding.</p>
+<p><b>CSR starting detail.</b> A starting relay adds the start capacitor during acceleration, then removes it. The run capacitor remains. Removing the start capacitor does not mean the auxiliary winding always turns off.</p>
+<p><b>Torque comparison.</b> PSC serves moderate or lower starting demand compared with a high starting torque capacitor start or CSR application. A CSR design gives stronger starting performance while retaining running capacitance.</p>
+<p><b>Diagnosis examples.</b> A PSC blower with starting trouble may have a bad run capacitor, winding fault, or mechanical drag. A CSR diagnosis also considers the starting relay and start capacitor. Do not condemn the motor from one symptom alone.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> Which capacitor stays connected in a PSC?<br><b>Answer.</b> The run capacitor.</p>
+<p><b>Ask.</b> In CSR, what is removed after startup?<br><b>Answer.</b> The start capacitor.</p>
+<p><b>Ask.</b> Is PCS another motor type here?<br><b>Answer.</b> No. The supplied key has a typo; the correct abbreviation is PSC.</p>
+<p class="tiny muted"><b>Source.</b> Chapter 8 sections 8.7 and 8.8; supplied review Chapter 8 question 20 corrected.</p></section>
+<section class="panel" id="part-7"><div class="eyebrow">55 to 60 minutes   Chapter 8 section 8.9</div><h2>Three Phase Motors and Motor Selection</h2><p>Three phase power supplies phase displaced currents directly. Unlike the covered single phase starting designs, a normal three phase induction motor does not need a start capacitor to make its starting field.</p>
+<h3>Compare the designs</h3><div class="table-scroll"><table>
+<tr><th>Motor choice</th><th>Starting feature to remember</th><th>Example load</th></tr>
+<tr><td>Shaded pole</td><td>Copper shading band; low starting torque</td><td>Small propeller fan</td></tr>
+<tr><td>Split phase</td><td>Two windings plus temporary start branch</td><td>Suitable blower or small pump</td></tr>
+<tr><td>Capacitor start</td><td>Temporary start capacitor; higher start torque</td><td>Pump with stronger starting demand</td></tr>
+<tr><td>PSC</td><td>Run capacitor stays</td><td>Direct drive blower or fan</td></tr>
+<tr><td>CSR</td><td>Start capacitor leaves; run capacitor stays</td><td>Compressor</td></tr>
+<tr><td>Three phase</td><td>Supply provides phase displacement</td><td>Larger commercial pump or compressor</td></tr>
+</table></div>
+<h3>Teaching and talking points</h3>
+<p><b>Construction.</b> The stator has three phase windings; a typical induction rotor is a squirrel cage. Each supply phase is about 120 electrical degrees from the others.</p>
+<p><b>Say.</b> The supply already gives three timed pushes. We do not need a single phase starting capacitor to manufacture that phase displacement.</p>
+<p><b>Winding names.</b> Wye is also called star. Delta is the other common winding arrangement described in the chapter. Use the nameplate and manufacturer diagram for any voltage configuration.</p>
+<p><b>Typical example.</b> A larger commercial pump, blower, or compressor supplied by appropriate three phase power. The chapter describes these motors as rugged and reliable.</p>
+<p><b>Checking windings.</b> With the motor properly isolated for the test, winding resistance readings should be similar for comparable phase windings. An infinite reading can indicate an open circuit; a direct short or unwanted path to the frame is a fault.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> How far apart are the phases?<br><b>Answer.</b> Approximately 120 electrical degrees.</p>
+<p><b>Ask.</b> What is another name for wye?<br><b>Answer.</b> Star.</p>
+<p><b>Ask.</b> Why is a start capacitor usually unnecessary?<br><b>Answer.</b> The three phase supply already provides the needed phase displacement.</p>
+<p class="tiny muted"><b>Source.</b> Chapter 8 section 8.9 and motor application sections 8.4 to 8.8.</p></section>
+<section class="panel" id="part-8"><div class="eyebrow">60 to 68 minutes   Chapter 8 sections 8.10 and 8.11</div><h2>ECM Constant Torque and Brushless Motors</h2><p>These designs add electronic control to the motor. Teach the motor portion and controller as two related parts.</p>
+<h3>Compare the designs</h3><div class="table-scroll"><table>
+<tr><th>Design</th><th>Parts to identify</th><th>Control idea</th></tr>
+<tr><td>ECM</td><td>Permanent magnet rotor wound stator and module</td><td>Electronic commutation with speed or airflow control</td></tr>
+<tr><td>Constant torque</td><td>Similar motor and module construction</td><td>Inputs select programmed torque levels</td></tr>
+<tr><td>Brushless inverter compressor</td><td>Permanent magnet rotor stator and drive</td><td>Drive adjusts output to system demand</td></tr>
+</table></div>
+<h3>Teaching and talking points</h3>
+<p><b>ECM construction.</b> An ECM has wound stator phases, a permanent magnet rotor, bearings, and a control module. The module receives power and control inputs, then electronically energizes the phases in sequence.</p>
+<p><b>Say.</b> The electronic module decides how to energize the windings. The rotor magnets provide the magnetic partner. We still have a stator, rotor, shaft, and bearings, but starting and speed control are electronic.</p>
+<p><b>ECM example.</b> A variable speed air handler blower can ramp up smoothly and adjust operation to meet a programmed airflow demand within its operating limits. It is not a guarantee of unlimited airflow compensation.</p>
+<p><b>Constant torque example.</b> An X13 style blower is based on ECM technology but uses programmed torque levels. Low voltage inputs on taps such as 1 through 5 select torque settings. Constant torque is not the same as guaranteed constant airflow under a heavily restricted filter.</p>
+<p><b>Brushless compressor example.</b> A mini split inverter controlled compressor uses a permanent magnet rotor and stator windings with electronic drive control. Removing brushes and a mechanical commutator removes that source of contact sparking.</p>
+<p><b>Diagnosis thinking.</b> Verify the required power and control signals before replacing an ECM. Similar isolated winding resistances and no ground fault may point the investigation toward the controller or connections. Follow the specific manufacturer procedure.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> What is the rotor magnetic source in an ECM?<br><b>Answer.</b> Permanent magnets.</p>
+<p><b>Ask.</b> Does a constant torque motor guarantee constant airflow?<br><b>Answer.</b> No. Torque and airflow control goals differ.</p>
+<p><b>Ask.</b> What two broad areas should be considered in an ECM fault?<br><b>Answer.</b> The motor assembly and its control module or inputs.</p>
+<p class="tiny muted"><b>Source.</b> Chapter 8 sections 8.10 and 8.11.</p></section>
+<section class="panel" id="part-9"><div class="eyebrow">68 to 75 minutes   Board calculations with guided practice</div><h2>Simple Speed and Capacitor Calculations</h2><p>Write the rule, substitute the numbers, and keep the units. These are paper calculations; no energized test is needed for this lesson.</p>
+<h3>Synchronous motor speed</h3><p><b>Rule.</b> Ns = 120 x frequency / number of poles</p><p><b>Work it out.</b> At 60 Hz, 120 x 60 = 7200. A 4 pole motor has Ns = 7200 / 4 = 1800 rpm. A 2 pole motor has Ns = 7200 / 2 = 3600 rpm.</p><p><b>Explain.</b> The formula gives the rotating field speed. A loaded induction rotor normally runs slower; the chapter example is about 1750 rpm for a 4 pole motor at 60 Hz.</p>
+<h3>Capacitors in parallel</h3><p><b>Rule.</b> Total C = C1 + C2</p><p><b>Work it out.</b> 10 uF + 20 uF = 30 uF.</p><p><b>Explain.</b> Parallel capacitances add. uF means microfarads.</p>
+<h3>Two capacitors in series</h3><p><b>Rule.</b> Total C = C1 x C2 / (C1 + C2)</p><p><b>Work it out.</b> Two 40 uF capacitors: 40 x 40 = 1600; 40 + 40 = 80; 1600 / 80 = 20 uF.</p><p><b>Explain.</b> For two equal series capacitors, the total is half the value of one. Do not use the parallel sum for series capacitors.</p>
+<p><b>Class activity.</b> Solve the first example with the class. Give one minute to calculate the three practice answers, then have students explain which rule they used.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> What is the synchronous speed of a 6 pole motor at 60 Hz?<br><b>Answer.</b> 7200 / 6 = 1200 rpm.</p>
+<p><b>Ask.</b> What is 15 uF plus 25 uF in parallel?<br><b>Answer.</b> 40 uF.</p>
+<p><b>Ask.</b> What do two 20 uF capacitors in series produce?<br><b>Answer.</b> 10 uF.</p>
+<p class="tiny muted"><b>Source.</b> Chapter 8 sections 8.3 and 8.5. Synchronous speed is distinguished from loaded rotor speed.</p></section>
+<section class="panel" id="part-10"><div class="eyebrow">75 to 83 minutes   Simple arithmetic and diagnosis</div><h2>Winding Resistance and Capacitor Ranges</h2><p>Use the calculations to explain a motor reading, not just to memorize a number. For a healthy isolated single phase compressor, start to run resistance is the sum of the two winding resistances.</p>
+<h3>Teaching and talking points</h3>
+<p><b>Diagnosis example.</b> If start to run has continuity but both common measurements are open, an internal overload in the common path may be open. A very hot compressor needs cooling and investigation before a final conclusion.</p>
+<p><b>Safe demonstration.</b> Use unpowered samples. Resistance checks require an isolated circuit; follow established electrical isolation and capacitor discharge procedures. Do not plug or unplug an ECM module while energized.</p>
+<p><b>Service connection.</b> Explain the symptom, what you checked, and why the diagnosis follows. Treat the customer and property respectfully; avoid claiming a motor is bad without enough evidence.</p>
+<h3>Common start and run</h3><p><b>Rule.</b> R to S = C to R + C to S</p><p><b>Work it out.</b> C to R = 2 ohms; C to S = 8 ohms; R to S = 2 + 8 = 10 ohms.</p><p><b>Explain.</b> The highest healthy pair reading is start to run. Common is the terminal shared by the smaller readings; the lower common winding reading is typically run.</p>
+<h3>Chapter run capacitor guide</h3><p><b>Rule.</b> 10 percent of a value = value / 10</p><p><b>Work it out.</b> For 40 uF: 40 / 10 = 4 uF. The chapter guide is 40 - 4 to 40 + 4, or 36 to 44 uF.</p><p><b>Explain.</b> The exact specified replacement is preferred. The replacement voltage rating must be equal or higher; follow manufacturer specifications for real equipment.</p>
+<h3>Chapter start capacitor guide</h3><p><b>Rule.</b> Upper guide limit = original + 20 percent</p><p><b>Work it out.</b> For 100 uF: 20 percent is 20 uF. The chapter guide permits 100 through 120 uF, not a value below the original.</p><p><b>Explain.</b> These are chapter substitution guidelines, not a reason to ignore the specified capacitor or equipment instructions.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> C to R is 3 ohms and C to S is 9 ohms. What is R to S?<br><b>Answer.</b> 12 ohms.</p>
+<p><b>Ask.</b> What is 10 percent of 50 uF?<br><b>Answer.</b> 5 uF; the chapter guide range is 45 to 55 uF.</p>
+<p class="tiny muted"><b>Source.</b> Chapter 8 sections 8.5 8.12 and 8.13.</p></section>
+<section class="panel" id="part-11"><div class="eyebrow">83 to 87 minutes   Ask for an answer and a reason</div><h2>Knowledge Check Before Casino Night</h2><p>Ask students to choose an option and briefly explain the part or process that supports their choice. Use this as a readiness check, not a wagered round.</p>
+<p><b>1. Which part of the motor is stationary?</b><br>A Rotor | B Stator | C Shaft | D Fan blade</p>
+<p><b>2. A small motor has copper shading bands and no external capacitor. Which design fits?</b><br>A CSR | B ECM | C Shaded pole | D Three phase</p>
+<p><b>3. Which design adds a temporary start capacitor for stronger starting torque?</b><br>A Capacitor start | B Shaded pole | C Plain resistance start | D PSC with a run capacitor only</p>
+<p><b>4. A PSC motor is running. Which capacitor remains connected?</b><br>A Start only | B Neither | C Both in every PSC | D Run</p>
+<p><b>5. In a CSR motor, what is removed after startup?</b><br>A The rotor | B Start capacitor | C Run capacitor | D Main winding</p>
+<p><b>6. Why does a three phase motor normally need no single phase start capacitor?</b><br>A It has no windings | B It has no rotor | C Its supply provides phase displacement | D Its bearings make the field</p>
+<p><b>7. At 60 Hz, a 4 pole motor has what synchronous speed?</b><br>A 1800 rpm | B 1750 rpm in every case | C 900 rpm | D 3600 rpm</p>
+<p><b>8. What distinguishes an ECM rotor from a common induction squirrel cage?</b><br>A No shaft | B No stator | C A start capacitor inside the rotor | D Permanent magnets</p>
+<details><summary>Answer key and explanations</summary>
+<p><b>1 B.</b> The stator is the stationary magnetic assembly.</p>
+<p><b>2 C.</b> Shading bands identify the shaded pole starting method.</p>
+<p><b>3 A.</b> The start capacitor increases starting phase displacement.</p>
+<p><b>4 D.</b> The run capacitor stays in the PSC auxiliary branch.</p>
+<p><b>5 B.</b> The run capacitor remains while the start capacitor leaves.</p>
+<p><b>6 C.</b> Three currents displaced by about 120 electrical degrees produce the rotating field.</p>
+<p><b>7 A.</b> 7200 divided by 4 is 1800 rpm. Loaded rotor speed is a separate value.</p>
+<p><b>8 D.</b> The ECM uses a permanent magnet rotor and electronic winding control.</p>
+</details>
+<p><b>Use the results.</b> If students miss the capacitor questions, restate what leaves and what stays before play. If they confuse torque and speed, compare lifting strength with the rate of turning.</p>
+<p><b>Equal preparation.</b> Review every motor family covered by the selected pool. For the first game, choose Basic and Applied; use Advanced for a later review or after the worked calculations.</p>
+<p class="tiny muted"><b>Source.</b> Checks align with the Chapter 8 motor sequence and calculations above.</p></section>
+<section class="panel" id="part-12"><div class="eyebrow">87 to 120 minutes   Setup play and debrief</div><h2>Run Casino Night and Review Learning</h2><p>The teacher portal hosts the shared room. Default capacity is 24 students; choose 20, 24, 30, or 40 seats before opening the table. The proposed game is 20 hands with motor focused chapter rotation.</p>
+<h3>Teaching and talking points</h3>
+<p><b>Open the room.</b> Choose Live classroom, student chosen wagers with a 100 dollar minimum, and the seat capacity. Share the Copy student link result. Every student joins by name or initials. Wait for the intended seats to show Connected.</p>
+<p><b>Explain the chips.</b> Each student starts with 1500 dollars in virtual chips. Wagers are chosen before the question appears, in 50 dollar steps from 100 up to the available balance. If an active student does not lock a wager, dealing automatically commits 100.</p>
+<p><b>Explain each hand.</b> The teacher deals. A 3 second cue precedes the 30 second question window. The first accepted answer locks. Correct answers return the stake plus an equal profit; Applied adds 50 and Advanced adds 100. Wrong answers and timeouts lose the wager.</p>
+<p><b>Explain rescue.</b> Below 100 means out until a voluntary rescue. A student can give half of current net winnings above the original 1500, rounded down. It must fund the recipient and preserve any already locked donor wager. The default is one rescue received per student.</p>
+<p><b>Pace the learning.</b> After the reveal, ask why the answer is correct and contrast a plausible distractor. Allow rescue decisions, then select Next hand. The hand limit ends the session; fewer than two active students after the rescue window also ends it.</p>
+<p><b>Record the learning.</b> Export results before closing the host tab. Use correctness by question and topic to identify teaching needs; chip totals include wagering and gifts and are not grades.</p>
+<h3>Ask and check</h3>
+<p><b>Ask.</b> Name one motor type, two defining parts, and a suitable application.<br><b>Answer.</b> Example: shaded pole, with a main winding and copper shading bands, used for a small propeller fan.</p>
+<p><b>Ask.</b> Which capacitor leaves after CSR startup, and which stays in PSC?<br><b>Answer.</b> The CSR start capacitor leaves; the PSC run capacitor stays.</p>
+<p><b>Ask.</b> What is 7200 divided by 4, and why can the loaded rotor speed be lower?<br><b>Answer.</b> 1800 rpm is the synchronous field speed. An induction rotor operates below that speed with slip.</p>
+<p><b>Connection check.</b> Test the intended classroom devices on school Wi Fi before the session. The separate device mode uses browser peer connections. Keep the teacher computer awake and its tab open throughout play.</p>
+<p><b>Source corrections.</b> All 78 uploaded review items are mapped to their original numbers. The PSC typo is corrected. The induced magnetism item now has a valid option. High starting torque wording distinguishes capacitor start from three phase. Typical speed and mini split size statements are qualified.</p>
+<p><b>Sources.</b> IDA201 CASINO NIGHT supplied review; Chapter 8 Basic Electric Motors; Chapter 5 Components Symbols and Circuitry. Motor examples are teaching applications tied to those chapters, not universal replacement rules.</p>
+<p class="tiny muted"><b>Source.</b> Game bank contains 350 questions: 78 uploaded review items 224 previous pool questions and 48 new questions.</p></section>
+</main><footer>Skills Trades Lab · IDA201 Casino Night</footer></body></html>

@@ -1,0 +1,79 @@
+Game ID,Original chapter,Original number,Original prompt,Multiple choice prompt,Correct answer
+R5-01,5,1,The magnetic starter has a means of overload protection; the contactor has _____________.,What protective feature is absent from a plain contactor but included in a magnetic starter?,Built-in overload protection
+R5-02,5,2,"The _____ is effective against a large overload, but it is less effective against small overloads.",Which device is effective against a large overload but less effective against a small sustained overload?,Fuse
+R5-03,5,3,Contactors and relays are devices that open and close electric contacts by the action of a(n) _____.,What produces the contact movement in a relay or contactor?,Solenoid coil
+R5-04,5,4,The bimetal element is the simplest of the ______________ overloads.,A bimetal element belongs to which overload category?,Thermal
+R5-05,5,5,The __________________ is composed of a solenoid and the contacts.,Which device uses a coil and contacts to switch a larger HVAC electrical load?,Contactor
+R5-06,5,6,The symbol for all heaters is _____.,"According to the chapter, what distinguishes heater purposes when their basic symbol is the same?",Letter designations
+R5-07,5,7,The term _____ refers to the position of a set of contacts when the device is de-energized.,Which term describes contact position with the device de-energized?,Normally
+R5-08,5,8,Thermostats are __________________ operated switches used in most control systems.,"In the chapter's basic mechanical thermostat, what moves the contacts?",A temperature-sensing element and mechanical linkage
+R5-09,5,9,"_______________ are devices such as motors, solenoids, resistance heaters, and other current-consuming devices.","What group includes motors, solenoids, and resistance heaters?",Electrical loads
+R5-10,5,10,A(n) _____ tells you what purpose the motor serves in the system.,What diagram label can identify the job a motor performs in a system?,Letter designation
+R5-11,5,11,The _____ decreases or increases the incoming voltage to a desired voltage.,Which device raises or lowers incoming voltage?,Transformer
+R5-12,5,12,"Loads are electrical devices that consume electricity to do _______________, this is the correct answer work.",Electrical loads consume electricity to do what kind of work?,Useful work
+R5-13,5,13,"The ___________________, this is the correct answer is a device that creates a magnetic field when energized and causes some action to an electric component.",What creates a magnetic field when energized and can actuate another component?,Solenoid
+R5-14,5,14,"The fuse is a piece of _____ designed to carry a certain load, and any higher load will cause the fuse to break the circuit.",A conventional fuse link is made from what type of material?,Metal
+R5-15,5,15,A _____ is an electrical device that consumes electric energy to rotate a device in an electric system.,Which electrical device produces rotating movement for a driven component?,Motor
+R5-16,5,16,"The ________________, this is the correct answer indicates how the switch may be operated.",Which switch term identifies the available switching connection positions?,Throw
+R5-17,5,17,"The _____________________, this is the correct answer decreases or increases the incoming voltage to a desired voltage.",A component changes a 240 V input to a 24 V control supply. Identify it.,Step-down transformer
+R5-18,5,18,"The _____________________, this is the correct answer diagram is also referred to as a label or line diagram.",Which diagram is also called a label or line diagram in this chapter?,Pictorial
+R5-19,5,19,"_____ are the most important part of a heating, cooling, or refrigeration system because they do all the work in the system.",Which devices perform the useful work in an HVAC electrical system?,Loads
+R5-20,5,20,"Compressors in most air-conditioning systems are controlled by a contactor or _____________________, this is the correct answer.","Besides a contactor, which device commonly controls a compressor and includes overload protection?",Magnetic starter
+R5-21,5,21,"The term _____________________, this is the correct answer refers to one set of contacts.",Which term means one set of electrical contacts?,Pole
+R5-22,5,22,A _____ is a device that creates a magnetic field when energized and causes some action to an electric component.,Which load can use magnetism to move a valve mechanism?,Solenoid
+R5-23,5,23,"A _____________________, this is the correct answer switch is used to open and close the main power source to a piece of equipment or load.",Which switch opens or closes the main power source to equipment?,Disconnect switch
+R5-24,5,24,A(n) _____ is a light that is illuminated to denote a certain condition in a system.,Which device illuminates to show a system condition?,Signal light
+R5-25,5,25,"A _____ takes electric energy and converts it to heat, and in some cases, it is used to heat homes.",Which load converts electricity to heat?,Resistance heater
+R5-26,5,26,"The _____ tells how, when, and why a system works as it does.","Which diagram explains how, when, and why a system operates?",Schematic diagram
+R5-27,5,27,"The thermal overload can be a _____________________, this is the correct answer duty service.",A thermal overload opens a contactor coil circuit instead of directly opening motor power. What duty is this?,Pilot duty
+R5-28,5,28,"_____________________, this is the correct answer are the largest and most important loads in heating, cooling, and refrigeration systems.","Which loads drive compressors, pumps, and fans in this chapter?",Motors
+R5-29,5,29,"The _____________________, this is the correct answer diagram gives specific information about terminals, wire sizes, color coding, and breaker or fuse sizes.","Which diagram gives terminals, wire sizes, color coding, and breaker or fuse sizes?",Installation diagram
+R5-30,5,30,The solenoid is considered a _____ because it consumes electricity to do useful work.,Why is an energized solenoid classified as a load?,It consumes electricity to do useful work
+R5-31,5,31,The most important type of switch in a control system is the _____.,Which switch category includes a basic thermostat actuated by a sensing element and linkage?,Mechanically operated
+R5-32,5,32,"Contactors are designed to carry _____________________, this is the correct answer.","In this chapter's general classification, contactors are described as carrying what current?",20 amperes or more
+R5-33,5,33,A manually operated switch is a switch that is opened and closed by _____.,What operates a manually operated switch?,Manual force
+R5-34,5,34,The _____ diagram is used to help the installation electrician to wire the unit properly.,What is the installation diagram primarily intended to help an electrician do?,Connect the unit wiring correctly
+R5-35,5,35,"The _____________________, this is the correct answer is the simplest type of overload device.",Which is the simplest overload device identified in the review?,Fuse
+R5-36,5,36,"A _____ is the same type of device as a contactor, except that it has a means of overload protection in it.",A device combines contactor action with motor overload protection. What is it?,Magnetic starter
+R5-37,5,37,"An electric _____________________, this is the correct answer is a device that opens and closes to control some load in an electric circuit.",What electrical device opens and closes a circuit to control a load?,Switch
+R5-38,5,38,"A _____________________, this is the correct answer is an electrical device that consumes electric energy to rotate a device in an electrical system.",A pump needs an electrical device to turn its shaft. Which device supplies that output?,Motor
+R8-01,8,1,"_____motors are rugged, reliable, and more dependable than other types of motors.",Which motor type is described in the chapter as rugged and reliable for larger equipment?,Three-phase
+R8-02,8,2,"A mini-split system is _____________________, this is the correct answer than conventional residential equipment.","In the chapter's example, the mini-split is described as what compared with conventional residential equipment?",Smaller and more compact
+R8-03,8,3,"The _____________________, this is the correct answer is one of six general types of motors used in environmental systems.",Which of these is one of the motor types covered in the chapter?,Shaded-pole motor
+R8-04,8,4,"The _____ motor produces a high starting torque, which is needed for many applications in the industry.",Which single-phase design adds a starting capacitor for high starting torque?,Capacitor-start motor
+R8-05,8,5,Torque is _____.,Which definition describes motor torque?,Turning strength
+R8-06,8,6,The common use of a shaded-pole motor is for a _____.,A shaded-pole motor is a common choice for which low-torque load?,Small propeller fan
+R8-07,8,7,"All magnets have two poles, _____________________.",What two poles does a magnet have?,North and south
+R8-08,8,8,The actual rpm of a four-pole motor is _____ rpm.,"At 60 Hz, what typical loaded speed does this chapter list for a four-pole induction motor?",About 1750 rpm
+R8-09,8,9,The rotation of a shaded-pole motor is determined by the location of the _____.,What determines the starting direction of a shaded-pole motor?,Location of the shaded pole sections
+R8-10,8,10,The _____ rotor is the most commonly used rotor today.,Which rotor is widely used in the chapter's induction motors?,Squirrel-cage rotor
+R8-11,8,11,A(n) _____________________ is the unit of measurement for the strength of a capacitor.,What is the unit of capacitance used on motor capacitors?,Microfarad
+R8-12,8,12,"The starting methods, or strengths, are generally used to classify _____ into types.",Starting methods and starting torque help classify what devices into types?,Motors
+R8-13,8,13,The technician's _____ is of utmost importance because the technician is often judged by this alone.,What professional attribute does the service protocol emphasize for a customer's first impression?,Clean and neat appearance
+R8-14,8,14,"If a direct current motor uses no brushes or commutator, it eliminates the _____.",Eliminating brushes and a mechanical commutator removes what source of sparking?,Brush-to-commutator contact
+R8-15,8,15,_____ motors are relatively low-torque motors and are simple and inexpensive devices.,Which low-to-moderate-starting-torque family uses start and run windings with phase displacement?,Resistance-start split-phase
+R8-16,8,16,A _____ is the unit of measurement for the strength of a capacitor.,A motor capacitor label says 40 uF. What does uF identify?,Microfarads
+R8-17,8,17,"To make an electric motor move continuously, there must be a _____________________ magnetic field.",What kind of magnetic field is central to continuous rotation in the chapter's basic motor explanation?,Rotating magnetic field
+R8-18,8,18,The magnetic lines of force of a magnet that flow between the two poles are called _____________________.,What term names magnetic lines of force?,Flux
+R8-19,8,19,"When going on a service call, the technician’s appearance is _____________________.","On a service visit, which behavior supports a professional appearance?",Arrive neat and protect the customer's property
+R8-20,8,20,_____________________motors are simple in design and have a moderate starting torque and a good running efficiency.,Which motor family uses a run capacitor continuously and offers good running efficiency?,PSC
+R8-21,8,21,The capacitor-____________________________ motor produces a high starting torque.,Complete the name of the high-starting-torque motor with a temporary start capacitor: capacitor _____.,Start
+R8-22,8,22,____________________________ has established standard motor dimensions.,Which organization is identified as standardizing motor frame dimensions?,NEMA
+R8-23,8,23,____________________________poles of magnets repel each other.,Which magnetic poles repel each other?,Like poles
+R8-24,8,24,"____________________________ is the strength that a motor produces by turning, either while starting or running.",What word identifies the strength of a motor's turning action during starting or running?,Torque
+R8-25,8,25,"____________________________, this is the correct answer is the stationary part of a motor.",Which motor part stays stationary?,Stator
+R8-26,8,26,"____________________________, this is the correct answer motors are rugged, reliable, and more dependable than other types of motors.",A large HVAC application uses a supply with three phase-displaced currents. Which motor family fits?,Three-phase
+R8-27,8,27,Shaded-pole motors are difficult to reverse because _____.,Why is a conventional shaded-pole motor difficult to reverse?,Its physical shaded-pole arrangement usually must be changed through disassembly
+R8-28,8,28,"____________________________, this is the correct answer capacitor is designed to stay in the motor circuit for the entire cycle of operation.",Which capacitor is designed to stay in a motor circuit for the whole running cycle?,Run capacitor
+R8-29,8,29,One of the most important aspects of the technician's job is _____.,Which is a key responsibility when working with a customer?,Courteous and fair treatment
+R8-30,8,30,A wye winding is also called a ____________________________ winding.,A wye winding is also called what?,Star winding
+R8-31,8,31,____________________________ consists of two aluminum plates with an insulator between them.,Which component has conducting plates separated by an insulating dielectric?,Capacitor
+R8-32,8,32,____________________________ motors are used when very small starting and running torques are required.,Which motor is suitable when very small starting and running torques are required?,Shaded-pole
+R8-33,8,33,_____ is the physical phenomenon that includes the attraction of an object for iron.,What physical phenomenon explains attraction between a magnet and iron?,Magnetism
+R8-34,8,34,The area that the magnetic force operates in is called a(n) _____.,What is the region in which magnetic force acts called?,Magnetic field
+R8-35,8,35,The area that the magnetic force operates in is called a ____________________________.,An iron object experiences force near a magnet. Which region is it in?,The magnetic field
+R8-36,8,36,A(n) _____ is a magnet that is produced through electricity.,What is a magnet created using electrical current called?,Electromagnet
+R8-37,8,37,A magnetic field is best conducted through _____.,Which chapter material provides a good magnetic path?,Soft iron
+R8-38,8,38,A _____ magnet is created when a piece of iron is placed in a magnetic field.,What is magnetism induced in an iron object placed in a magnetic field called?,Induced magnetism
+R8-39,8,39,The ____________________________ motor is used to rotate a device that is itself not enclosed in any type of housing.,Which enclosure category describes a motor whose starting apparatus is commonly within the motor rather than outside a sealed compressor shell?,Open motor
+R8-40,8,40,_____ are used to create a rotating motion and drive components that need to be turned.,Which electrical devices create rotation to drive components needing to turn?,Motors

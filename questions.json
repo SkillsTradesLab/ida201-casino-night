@@ -1,0 +1,5602 @@
+[
+  {
+    "id": "C5-001",
+    "chapter": 5,
+    "source": "Chapter 5, 5.1 Loads (section begins on PDF p. 3)",
+    "level": "Basic",
+    "prompt": "What is an electrical load?",
+    "choices": [
+      "A device using electricity to do useful work",
+      "A wire label only",
+      "A mechanical mounting bracket",
+      "A diagram legend"
+    ],
+    "answer": 0,
+    "explanation": "Loads consume electrical energy to perform a useful function.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-002",
+    "chapter": 5,
+    "source": "Chapter 5, 5.1 Loads (section begins on PDF p. 3)",
+    "level": "Basic",
+    "prompt": "A motor converts electrical energy primarily into what useful output?",
+    "choices": [
+      "Rotating mechanical motion",
+      "A wire color",
+      "Only stored refrigerant",
+      "A pressure setting"
+    ],
+    "answer": 0,
+    "explanation": "Motors drive components that require rotation.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-003",
+    "chapter": 5,
+    "source": "Chapter 5, 5.1 Loads (section begins on PDF p. 3)",
+    "level": "Basic",
+    "prompt": "Which device produces a magnetic field to operate a valve or relay?",
+    "choices": [
+      "Solenoid",
+      "Fuse link",
+      "Disconnect blade",
+      "Pictorial diagram"
+    ],
+    "answer": 0,
+    "explanation": "An energized solenoid produces a magnetic field and mechanical action.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-004",
+    "chapter": 5,
+    "source": "Chapter 5, 5.1 Loads (section begins on PDF p. 3)",
+    "level": "Basic",
+    "prompt": "A resistance heater converts electrical energy into what?",
+    "choices": [
+      "Heat",
+      "Refrigerant mass",
+      "A magnetic label",
+      "Wire insulation"
+    ],
+    "answer": 0,
+    "explanation": "The useful output of a resistance heater is heat.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-005",
+    "chapter": 5,
+    "source": "Chapter 5, 5.1 Loads (section begins on PDF p. 3)",
+    "level": "Basic",
+    "prompt": "What does a signal light usually indicate?",
+    "choices": [
+      "A system condition",
+      "Refrigerant chemical identity",
+      "Exact motor torque",
+      "Wire resistance by itself"
+    ],
+    "answer": 0,
+    "explanation": "Signal lights show conditions such as operation or an unsafe state.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-006",
+    "chapter": 5,
+    "source": "Chapter 5, 5.1 Loads (section begins on PDF p. 3)",
+    "level": "Basic",
+    "prompt": "A letter inside a signal-light symbol can denote what?",
+    "choices": [
+      "Light color",
+      "Circuit frequency",
+      "Compressor displacement",
+      "Motor pole count"
+    ],
+    "answer": 0,
+    "explanation": "The chapter describes letters used to identify signal-light colors.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-007",
+    "chapter": 5,
+    "source": "Chapter 5, 5.1 Loads (section begins on PDF p. 3)",
+    "level": "Basic",
+    "prompt": "Why is a solenoid considered a load?",
+    "choices": [
+      "It consumes electricity to perform work",
+      "It is always a manual switch",
+      "It never uses current",
+      "It is made only of wire insulation"
+    ],
+    "answer": 0,
+    "explanation": "The energized coil uses electrical energy for a useful magnetic action.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-008",
+    "chapter": 5,
+    "source": "Chapter 5, 5.1 Loads (section begins on PDF p. 3)",
+    "level": "Basic",
+    "prompt": "Which load would turn a pump shaft?",
+    "choices": [
+      "Motor",
+      "Fuse",
+      "Thermostat contact",
+      "Signal light"
+    ],
+    "answer": 0,
+    "explanation": "A pump requires rotating mechanical output supplied by a motor.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-009",
+    "chapter": 5,
+    "source": "Chapter 5, 5.1 Loads (section begins on PDF p. 3)",
+    "level": "Basic",
+    "prompt": "What helps distinguish different heater purposes on a diagram?",
+    "choices": [
+      "Letter designations",
+      "The number of printed pages",
+      "Paper size",
+      "The color of refrigerant"
+    ],
+    "answer": 0,
+    "explanation": "The generic heater symbol is supplemented by identifying letters.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-010",
+    "chapter": 5,
+    "source": "Chapter 5, 5.2 Contactors and Relays (section begins on PDF p. 8)",
+    "level": "Basic",
+    "prompt": "What operates the contacts of a relay or contactor?",
+    "choices": [
+      "An energized solenoid coil",
+      "Refrigerant boiling inside contacts",
+      "A signal-light lens",
+      "Wire paint"
+    ],
+    "answer": 0,
+    "explanation": "The coil produces a magnetic field that moves the contact linkage.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-011",
+    "chapter": 5,
+    "source": "Chapter 5, 5.2 Contactors and Relays (section begins on PDF p. 8)",
+    "level": "Basic",
+    "prompt": "What does a pole mean in a relay or contactor?",
+    "choices": [
+      "One set of contacts",
+      "One diagram page",
+      "One capacitor plate",
+      "One fan blade"
+    ],
+    "answer": 0,
+    "explanation": "A pole is an individual set of contacts.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-012",
+    "chapter": 5,
+    "source": "Chapter 5, 5.2 Contactors and Relays (section begins on PDF p. 8)",
+    "level": "Basic",
+    "prompt": "What does normally open mean?",
+    "choices": [
+      "Open when the device is de-energized",
+      "Open only when energized",
+      "Always open regardless of operation",
+      "Open only at full load"
+    ],
+    "answer": 0,
+    "explanation": "Normal contact position is the de-energized position.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-013",
+    "chapter": 5,
+    "source": "Chapter 5, 5.2 Contactors and Relays (section begins on PDF p. 8)",
+    "level": "Basic",
+    "prompt": "What happens to normally closed relay contacts when the coil energizes?",
+    "choices": [
+      "They open",
+      "They remain closed by definition",
+      "They become a resistor",
+      "They produce refrigerant"
+    ],
+    "answer": 0,
+    "explanation": "NC contacts open when their relay coil is energized.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-014",
+    "chapter": 5,
+    "source": "Chapter 5, 5.2 Contactors and Relays (section begins on PDF p. 8)",
+    "level": "Basic",
+    "prompt": "What happens to normally open relay contacts when the coil energizes?",
+    "choices": [
+      "They close",
+      "They become grounded",
+      "They open farther",
+      "They turn into an overload"
+    ],
+    "answer": 0,
+    "explanation": "NO contacts close when the relay energizes.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-015",
+    "chapter": 5,
+    "source": "Chapter 5, 5.2 Contactors and Relays (section begins on PDF p. 8)",
+    "level": "Basic",
+    "prompt": "How are component symbols usually shown on wiring diagrams?",
+    "choices": [
+      "De-energized",
+      "At maximum speed",
+      "With every coil energized",
+      "At maximum pressure"
+    ],
+    "answer": 0,
+    "explanation": "The normal drawing convention is the de-energized state.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-016",
+    "chapter": 5,
+    "source": "Chapter 5, 5.2 Contactors and Relays (section begins on PDF p. 8)",
+    "level": "Basic",
+    "prompt": "In this chapter, what commonly distinguishes contactors from relays?",
+    "choices": [
+      "Higher current-carrying capacity",
+      "The presence of refrigerant",
+      "The absence of a coil",
+      "The use of a lamp lens"
+    ],
+    "answer": 0,
+    "explanation": "The chapter treats contactors as devices for larger-current loads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-017",
+    "chapter": 5,
+    "source": "Chapter 5, 5.2 Contactors and Relays (section begins on PDF p. 8)",
+    "level": "Basic",
+    "prompt": "What does pilot duty mean for a relay?",
+    "choices": [
+      "Controlling another relay or contactor",
+      "Directly pumping water",
+      "Measuring refrigerant weight",
+      "Lighting the whole classroom"
+    ],
+    "answer": 0,
+    "explanation": "A pilot-duty device controls another switching device.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-018",
+    "chapter": 5,
+    "source": "Chapter 5, 5.2 Contactors and Relays (section begins on PDF p. 8)",
+    "level": "Basic",
+    "prompt": "What three parts make up a relay or contactor?",
+    "choices": [
+      "Contacts, coil, mechanical linkage",
+      "Rotor, piston, receiver",
+      "Lamp, fuse, metering device",
+      "Transformer, blower, drier"
+    ],
+    "answer": 0,
+    "explanation": "The coil acts through mechanical linkage to change the contacts.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-019",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "What does a magnetic starter add to a contactor function?",
+    "choices": [
+      "Overload protection",
+      "A condenser coil",
+      "A refrigerant receiver",
+      "An evaporator bulb"
+    ],
+    "answer": 0,
+    "explanation": "A magnetic starter includes a means of motor overload protection.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-020",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "What is the purpose of a disconnect switch?",
+    "choices": [
+      "Open or close the main power source to equipment",
+      "Adjust superheat",
+      "Store energy like a capacitor",
+      "Measure motor speed"
+    ],
+    "answer": 0,
+    "explanation": "The disconnect switches the main equipment power supply.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-021",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "A push-button switch is operated by what?",
+    "choices": [
+      "Pressing a button",
+      "Refrigerant pressure only",
+      "A rotating stator",
+      "A capacitor dielectric"
+    ],
+    "answer": 0,
+    "explanation": "A push button manually changes a set of contacts.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-022",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "A cooling thermostat closes on what change?",
+    "choices": [
+      "Temperature rise",
+      "Temperature fall only",
+      "Voltage drop only",
+      "Motor speed rise"
+    ],
+    "answer": 0,
+    "explanation": "A cooling thermostat calls for cooling as temperature rises.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-023",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "A heating thermostat closes on what change?",
+    "choices": [
+      "Temperature fall",
+      "Temperature rise only",
+      "Pressure rise only",
+      "Line current rise"
+    ],
+    "answer": 0,
+    "explanation": "Heating is called for as sensed temperature falls.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-024",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "What operates a thermal overload?",
+    "choices": [
+      "Heat",
+      "Light color",
+      "Refrigerant type",
+      "Diagram scale"
+    ],
+    "answer": 0,
+    "explanation": "Thermal overloads respond to heat.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-025",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "What operates a magnetic overload?",
+    "choices": [
+      "A magnetic field associated with current",
+      "Only room temperature",
+      "A condenser water stream",
+      "A signal-light color"
+    ],
+    "answer": 0,
+    "explanation": "Its magnetic action is related to current draw.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-026",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "What does a fuse do under excessive current?",
+    "choices": [
+      "Opens the circuit",
+      "Increases the supply voltage",
+      "Stores refrigerant",
+      "Raises motor speed"
+    ],
+    "answer": 0,
+    "explanation": "The fuse element opens to interrupt excessive current.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-027",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "What does a transformer change?",
+    "choices": [
+      "Voltage level",
+      "Motor bearing size",
+      "Refrigerant composition",
+      "Wire color by itself"
+    ],
+    "answer": 0,
+    "explanation": "Transformers raise or lower incoming voltage.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-028",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "What control voltage does the chapter commonly describe for air conditioning?",
+    "choices": [
+      "24 volts",
+      "1,500 volts",
+      "1 volt",
+      "480 volts only"
+    ],
+    "answer": 0,
+    "explanation": "The chapter describes a 24-volt control circuit.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-029",
+    "chapter": 5,
+    "source": "Chapter 5, 5.3-5.6 Controls (section begins on PDF p. 11)",
+    "level": "Basic",
+    "prompt": "What happens to a warm bimetal overload element?",
+    "choices": [
+      "It warps to open a circuit",
+      "It pumps refrigerant",
+      "It always closes every contact",
+      "It becomes a capacitor"
+    ],
+    "answer": 0,
+    "explanation": "Heating bends the bimetal element and interrupts the circuit.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-030",
+    "chapter": 5,
+    "source": "Chapter 5, 5.7-5.9 Diagrams (section begins on PDF p. 19)",
+    "level": "Basic",
+    "prompt": "Which diagram best explains how, when, and why a control system operates?",
+    "choices": [
+      "Schematic",
+      "Installation only",
+      "Photograph only",
+      "Parts price list"
+    ],
+    "answer": 0,
+    "explanation": "A schematic organizes operation circuit by circuit.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-031",
+    "chapter": 5,
+    "source": "Chapter 5, 5.7-5.9 Diagrams (section begins on PDF p. 19)",
+    "level": "Basic",
+    "prompt": "Which diagram helps locate components and wires in the panel?",
+    "choices": [
+      "Pictorial",
+      "Only a pressure chart",
+      "Only a motor nameplate",
+      "Only a refrigerant chart"
+    ],
+    "answer": 0,
+    "explanation": "The pictorial diagram shows component and wiring placement.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-032",
+    "chapter": 5,
+    "source": "Chapter 5, 5.7-5.9 Diagrams (section begins on PDF p. 19)",
+    "level": "Basic",
+    "prompt": "What is a factual diagram?",
+    "choices": [
+      "A combination of pictorial and schematic diagrams",
+      "Only a wiring color list",
+      "A motor speed graph",
+      "Only a component photograph"
+    ],
+    "answer": 0,
+    "explanation": "A factual diagram combines the two diagram styles.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-033",
+    "chapter": 5,
+    "source": "Chapter 5, 5.7-5.9 Diagrams (section begins on PDF p. 19)",
+    "level": "Basic",
+    "prompt": "Which diagram specifies terminals, wire sizes, and breaker or fuse sizes for hookup?",
+    "choices": [
+      "Installation",
+      "Only a schematic legend",
+      "Only a compressor cutaway",
+      "Only a temperature graph"
+    ],
+    "answer": 0,
+    "explanation": "An installation diagram focuses on correct installation wiring.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-034",
+    "chapter": 5,
+    "source": "Chapter 5, 5.7-5.9 Diagrams (section begins on PDF p. 19)",
+    "level": "Basic",
+    "prompt": "What are the three basic parts of an electric circuit?",
+    "choices": [
+      "Source, load, conducting path",
+      "Receiver, drier, compressor",
+      "North, south, east",
+      "Pressure, humidity, oil"
+    ],
+    "answer": 0,
+    "explanation": "A circuit needs an energy source, a consuming device, and a current path.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-035",
+    "chapter": 5,
+    "source": "Chapter 5, 5.7-5.9 Diagrams (section begins on PDF p. 19)",
+    "level": "Basic",
+    "prompt": "What do L1 and L2 represent in the chapter schematic?",
+    "choices": [
+      "Power supply lines",
+      "Two fan speeds",
+      "Two refrigerant types",
+      "Two heater colors"
+    ],
+    "answer": 0,
+    "explanation": "The lines represent the power supply with voltage between them.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-036",
+    "chapter": 5,
+    "source": "Chapter 5, 5.7-5.9 Diagrams (section begins on PDF p. 19)",
+    "level": "Basic",
+    "prompt": "What does a diagram legend provide?",
+    "choices": [
+      "Meaning of component letter designations",
+      "Refrigerant charge automatically",
+      "Actual operating temperature always",
+      "Exact motor current always"
+    ],
+    "answer": 0,
+    "explanation": "A legend cross-references labels to component names.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-037",
+    "chapter": 5,
+    "source": "Chapter 5, 5.7-5.9 Diagrams (section begins on PDF p. 19)",
+    "level": "Basic",
+    "prompt": "Are pictorial control-panel diagrams necessarily drawn to scale?",
+    "choices": [
+      "No",
+      "Yes, always",
+      "Only at 24 volts",
+      "Only for fan motors"
+    ],
+    "answer": 0,
+    "explanation": "The chapter states the pictorial diagram is not to scale.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-038",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A coil is de-energized and its NO contact is in series with a lamp. What is the lamp circuit state?",
+    "choices": [
+      "Open through that contact",
+      "Closed through that contact",
+      "Automatically shorted",
+      "Converted to DC"
+    ],
+    "answer": 0,
+    "explanation": "An NO contact is open when its coil is de-energized.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-039",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A coil energizes an NC contact in series with a lamp. What happens to that path?",
+    "choices": [
+      "It opens",
+      "It closes",
+      "It doubles voltage",
+      "It changes wire size"
+    ],
+    "answer": 0,
+    "explanation": "Energizing the relay opens its normally closed contact.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-040",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A large compressor load needs a magnetic switching device. Which chapter device is the usual choice?",
+    "choices": [
+      "Contactor",
+      "Signal light",
+      "Small pilot-only push button",
+      "TEV bulb"
+    ],
+    "answer": 0,
+    "explanation": "Contactors are commonly used to switch larger loads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-041",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A small control relay commands a large compressor contactor. How is the relay being used?",
+    "choices": [
+      "Pilot duty",
+      "As a condenser",
+      "As a motor shaft",
+      "As a refrigerant receiver"
+    ],
+    "answer": 0,
+    "explanation": "The relay controls another switching device.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-042",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A technician needs overload protection integrated with magnetic switching. Which device fits?",
+    "choices": [
+      "Magnetic starter",
+      "Plain contactor alone",
+      "Signal lamp",
+      "Transformer alone"
+    ],
+    "answer": 0,
+    "explanation": "The starter combines contactor action with overload protection.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-043",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "Room temperature rises above a cooling setting. What should the cooling thermostat do?",
+    "choices": [
+      "Close its cooling contacts",
+      "Open its cooling contacts by definition",
+      "Change refrigerant type",
+      "Reverse all line polarity"
+    ],
+    "answer": 0,
+    "explanation": "A cooling thermostat closes on a rise in temperature.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-044",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "Room temperature falls below a heating setting. What should the heating thermostat do?",
+    "choices": [
+      "Close its heating contacts",
+      "Open its heating contacts by definition",
+      "Start subcooling refrigerant",
+      "Change the motor pole count"
+    ],
+    "answer": 0,
+    "explanation": "The heating thermostat closes on falling temperature.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-045",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "An installer needs equipment terminal and field wire information. Which diagram should be consulted?",
+    "choices": [
+      "Installation diagram",
+      "Only a temperature chart",
+      "Only a schematic legend",
+      "Only a capacitor diagram"
+    ],
+    "answer": 0,
+    "explanation": "Installation diagrams provide field hookup details.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-046",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "You found a failed relay on the schematic. What diagram helps locate it physically?",
+    "choices": [
+      "Pictorial diagram",
+      "Only a pressure-enthalpy chart",
+      "Only a motor speed table",
+      "Only a heating load calculation"
+    ],
+    "answer": 0,
+    "explanation": "The pictorial drawing helps locate components within the panel.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-047",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A switch symbol shows pressure actuation. Does its symbol alone necessarily give the exact pressure range?",
+    "choices": [
+      "No",
+      "Yes, always",
+      "Only if normally open",
+      "Only at 60 hertz"
+    ],
+    "answer": 0,
+    "explanation": "The chapter says pressure range is not part of the symbolic representation.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-048",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A bimetal element opens a motor circuit when hot. Which protective principle is used?",
+    "choices": [
+      "Thermal overload",
+      "Photovoltaic control",
+      "Capacitance storage",
+      "Refrigerant metering"
+    ],
+    "answer": 0,
+    "explanation": "Heat-driven bending opens the protection circuit.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-049",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A thermal overload opens the contactor control circuit instead of the motor power line. What type is it?",
+    "choices": [
+      "Pilot-duty overload",
+      "Liquid-line valve",
+      "Direct-drive motor",
+      "Signal light"
+    ],
+    "answer": 0,
+    "explanation": "Pilot-duty protection stops the motor by interrupting its control circuit.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-050",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A device changes 240 V supply to a 24 V control supply. What is it?",
+    "choices": [
+      "Step-down transformer",
+      "Run capacitor",
+      "Fuse",
+      "Pressure switch"
+    ],
+    "answer": 0,
+    "explanation": "A transformer changes voltage to the required control level.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-051",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "The same basic heater symbol appears twice with different letters. What should you check?",
+    "choices": [
+      "Legend and letter designations",
+      "Only the page background",
+      "Only the refrigerant color",
+      "Only the mounting screws"
+    ],
+    "answer": 0,
+    "explanation": "Letter designations identify the different purposes.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-052",
+    "chapter": 5,
+    "source": "Chapter 5, control applications",
+    "level": "Applied",
+    "prompt": "A circuit has a source and a load but an open wire. Why will the load not run?",
+    "choices": [
+      "The conducting path is incomplete",
+      "The source always stops existing",
+      "The load becomes a transformer",
+      "The wire turns into refrigerant"
+    ],
+    "answer": 0,
+    "explanation": "An open path prevents normal current through the load.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-053",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "An NO relay contact feeds a load. The coil loses power. What happens if the contact is functioning normally?",
+    "choices": [
+      "The contact opens and stops the load",
+      "The contact closes harder",
+      "The load doubles its speed",
+      "The relay becomes an overload"
+    ],
+    "answer": 0,
+    "explanation": "NO contacts return to the open state when the coil de-energizes.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-054",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "An NC safety switch and NO thermostat are in series with a coil. What must be true for the coil to energize?",
+    "choices": [
+      "Both switches must provide a closed path",
+      "Only the thermostat must close",
+      "Only the safety must close",
+      "Neither path needs continuity"
+    ],
+    "answer": 0,
+    "explanation": "Series control devices must all conduct to complete the coil circuit.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-055",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "A pilot overload trips while the power disconnect remains closed. Why can the motor stop?",
+    "choices": [
+      "The control path opens and the contactor drops out",
+      "The diagram removes L1",
+      "The motor gains refrigerant",
+      "The transformer increases torque"
+    ],
+    "answer": 0,
+    "explanation": "Interrupting the control circuit can release the power-switching contactor.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-056",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "A contactor coil energizes but a commanded load stays off. Which condition could explain it?",
+    "choices": [
+      "An open power contact or incomplete load path",
+      "The diagram being printed in black",
+      "A correct legend by itself",
+      "The signal lamp being a different color"
+    ],
+    "answer": 0,
+    "explanation": "Coil energization does not guarantee continuity through every power component.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-057",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "Which troubleshooting sequence best uses both diagram types?",
+    "choices": [
+      "Trace operation on the schematic, then locate the component on the pictorial",
+      "Use installation wire sizes as the only operating guide",
+      "Ignore the schematic and guess by panel position",
+      "Assume all diagrams are identical photographs"
+    ],
+    "answer": 0,
+    "explanation": "The schematic explains operation; the pictorial shows physical location.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-058",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "A fuse protects against a large overload. Why might other motor overload protection still be needed?",
+    "choices": [
+      "A fuse is less effective against small sustained overloads",
+      "A fuse can only indicate lamp color",
+      "A fuse cannot ever open",
+      "A fuse is a metering device"
+    ],
+    "answer": 0,
+    "explanation": "The chapter distinguishes large-overload fuse protection from finer motor protection.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-059",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "A magnetic overload resembles a relay with an NC contact. What helps distinguish its purpose on the diagram?",
+    "choices": [
+      "Its letter designation and circuit context",
+      "Only the page size",
+      "Only the motor paint",
+      "Only the refrigerant name"
+    ],
+    "answer": 0,
+    "explanation": "Component designations distinguish similar symbols with different purposes.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-060",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "A relay has two NO poles and one NC pole. When energized, how many poles are closed?",
+    "choices": [
+      "Two",
+      "One",
+      "Three",
+      "Zero"
+    ],
+    "answer": 0,
+    "explanation": "Both NO poles close and the NC pole opens.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-061",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "A relay has two NO poles and one NC pole. When de-energized, how many poles are closed?",
+    "choices": [
+      "One",
+      "Two",
+      "Three",
+      "Zero"
+    ],
+    "answer": 0,
+    "explanation": "Only the NC pole is closed in the normal state.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-062",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "Why should a technician consult the manufacturer legend for an unfamiliar symbol?",
+    "choices": [
+      "Manufacturers can use minor symbol variations",
+      "All loads have identical names",
+      "Symbols always show energized operation",
+      "Legends give live pressure readings"
+    ],
+    "answer": 0,
+    "explanation": "The chapter notes symbol similarities with some manufacturer differences.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-063",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "Which comparison between a line-break overload and pilot-duty overload is correct?",
+    "choices": [
+      "One interrupts load power; the other interrupts control power",
+      "Both regulate evaporator superheat",
+      "Both are signal lights only",
+      "Neither can stop a motor"
+    ],
+    "answer": 0,
+    "explanation": "They stop the load through different circuit paths.",
+    "pool": "previous"
+  },
+  {
+    "id": "C5-064",
+    "chapter": 5,
+    "source": "Chapter 5, control synthesis",
+    "level": "Advanced",
+    "prompt": "A schematic shows a complete path from L1 through a closed switch and healthy load to L2. What should occur with the correct supply present?",
+    "choices": [
+      "Current flows and the load can operate",
+      "The load necessarily becomes shorted",
+      "The switch must be de-energized",
+      "The voltage becomes zero everywhere"
+    ],
+    "answer": 0,
+    "explanation": "A complete conducting path with a supply permits load current.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-001",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "Like magnetic poles do what?",
+    "choices": [
+      "Repel",
+      "Attract",
+      "Always disappear",
+      "Create refrigerant"
+    ],
+    "answer": 0,
+    "explanation": "Like poles repel and unlike poles attract.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-002",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "Unlike magnetic poles do what?",
+    "choices": [
+      "Attract",
+      "Repel",
+      "Always lose all magnetism",
+      "Generate only heat"
+    ],
+    "answer": 0,
+    "explanation": "Opposite magnetic poles attract.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-003",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "What is magnetic flux?",
+    "choices": [
+      "Magnetic lines of force",
+      "Motor insulation thickness",
+      "Refrigerant pressure",
+      "Capacitor voltage"
+    ],
+    "answer": 0,
+    "explanation": "Flux describes the magnetic field lines.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-004",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "Which material is a good conductor of a magnetic field in the chapter?",
+    "choices": [
+      "Soft iron",
+      "Glass",
+      "Wood",
+      "Paper"
+    ],
+    "answer": 0,
+    "explanation": "Soft iron provides a useful magnetic path in electric devices.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-005",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "What produces an electromagnet's magnetic field?",
+    "choices": [
+      "Electric current",
+      "A diagram legend",
+      "Refrigerant evaporation alone",
+      "A lamp lens"
+    ],
+    "answer": 0,
+    "explanation": "Current through a coil creates a magnetic field.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-006",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "What is the rotor?",
+    "choices": [
+      "The rotating motor part",
+      "The stationary frame only",
+      "The supply breaker",
+      "The run capacitor"
+    ],
+    "answer": 0,
+    "explanation": "The rotor turns inside the motor.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-007",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "What is the stator?",
+    "choices": [
+      "The stationary motor part",
+      "The rotating shaft",
+      "The liquid-line valve",
+      "The centrifugal switch blade only"
+    ],
+    "answer": 0,
+    "explanation": "The stator is the stationary magnetic structure.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-008",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "What is motor torque?",
+    "choices": [
+      "Turning strength",
+      "Refrigerant charge",
+      "Wire color",
+      "Control voltage only"
+    ],
+    "answer": 0,
+    "explanation": "Torque measures the motor's turning action.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-009",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "What determines calculated synchronous motor speed?",
+    "choices": [
+      "Supply frequency and number of poles",
+      "Lamp color and wire length",
+      "Oil color and refrigerant mass",
+      "Room humidity only"
+    ],
+    "answer": 0,
+    "explanation": "Synchronous speed is 120 times frequency divided by pole count.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-010",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "What effect does adding poles have at the same frequency?",
+    "choices": [
+      "Lower synchronous speed",
+      "Higher synchronous speed",
+      "No effect on speed",
+      "Eliminates magnetic fields"
+    ],
+    "answer": 0,
+    "explanation": "More poles divide the same frequency into a lower rotational speed.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-011",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "What induces magnetism in a squirrel-cage rotor?",
+    "choices": [
+      "The energized stator field",
+      "A TEV sensing bulb",
+      "A heater label",
+      "Only a permanent horseshoe magnet"
+    ],
+    "answer": 0,
+    "explanation": "The stator's changing magnetic field induces rotor currents and magnetism.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-012",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "Where must starting components for a hermetic motor be installed?",
+    "choices": [
+      "Outside the compressor shell",
+      "Inside its refrigerant passages",
+      "Inside the piston",
+      "In the evaporator fins"
+    ],
+    "answer": 0,
+    "explanation": "The hermetic shell requires external starting apparatus.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-013",
+    "chapter": 8,
+    "source": "Chapter 8, 8.1-8.3 Fundamentals (section begins on PDF p. 1)",
+    "level": "Basic",
+    "prompt": "What is the primary useful output of an electric motor?",
+    "choices": [
+      "Mechanical energy",
+      "New refrigerant",
+      "A drawing symbol",
+      "Stored capacitor charge only"
+    ],
+    "answer": 0,
+    "explanation": "A motor changes electrical energy into mechanical energy.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-014",
+    "chapter": 8,
+    "source": "Chapter 8, 8.4 Shaded-pole (section begins on PDF p. 9)",
+    "level": "Basic",
+    "prompt": "What visual feature helps identify a shaded-pole motor?",
+    "choices": [
+      "Copper band around part of a pole",
+      "Two oil receivers",
+      "A TEV bulb",
+      "A three-pole disconnect"
+    ],
+    "answer": 0,
+    "explanation": "The shading band is an identifying feature.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-015",
+    "chapter": 8,
+    "source": "Chapter 8, 8.4 Shaded-pole (section begins on PDF p. 9)",
+    "level": "Basic",
+    "prompt": "Which application best fits a shaded-pole motor?",
+    "choices": [
+      "Small low-starting-torque fan",
+      "Large high-torque compressor",
+      "High-pressure pump requiring major start torque",
+      "A heater with no rotating part"
+    ],
+    "answer": 0,
+    "explanation": "Shaded-pole motors serve small low-torque loads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-016",
+    "chapter": 8,
+    "source": "Chapter 8, 8.4 Shaded-pole (section begins on PDF p. 9)",
+    "level": "Basic",
+    "prompt": "In what direction does a shaded-pole rotor normally start?",
+    "choices": [
+      "Toward the shaded part of the pole",
+      "Away from every shaded pole",
+      "Alternately clockwise and counterclockwise every second",
+      "Only toward the capacitor"
+    ],
+    "answer": 0,
+    "explanation": "The shading action causes rotation toward the shaded pole.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-017",
+    "chapter": 8,
+    "source": "Chapter 8, 8.4 Shaded-pole (section begins on PDF p. 9)",
+    "level": "Basic",
+    "prompt": "A single-speed shaded-pole motor generally has how many main windings in the chapter?",
+    "choices": [
+      "One",
+      "Two separate start/run windings",
+      "Three equal phase windings",
+      "Six starting windings"
+    ],
+    "answer": 0,
+    "explanation": "Its simple single-winding arrangement helps troubleshooting.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-018",
+    "chapter": 8,
+    "source": "Chapter 8, 8.4 Shaded-pole (section begins on PDF p. 9)",
+    "level": "Basic",
+    "prompt": "Does a stalled shaded-pole motor necessarily have failed windings?",
+    "choices": [
+      "No, mechanical resistance may be responsible",
+      "Yes, every stall proves an open winding",
+      "Yes, every stall proves a ground",
+      "Yes, it always has a failed start capacitor"
+    ],
+    "answer": 0,
+    "explanation": "The chapter notes lubrication or mechanical trouble can cause a stall.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-019",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "What unit rates motor capacitance?",
+    "choices": [
+      "Microfarads",
+      "Horsepower",
+      "Ohms only",
+      "Revolutions per minute"
+    ],
+    "answer": 0,
+    "explanation": "Capacitance is rated in microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-020",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "What separates the plates inside a capacitor?",
+    "choices": [
+      "An insulating dielectric",
+      "A rotor shaft",
+      "A refrigeration receiver",
+      "A contactor linkage"
+    ],
+    "answer": 0,
+    "explanation": "The dielectric separates conductive plates and permits charge storage.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-021",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "Which capacitor is intended for brief starting duty?",
+    "choices": [
+      "Start capacitor",
+      "Run capacitor",
+      "Both only for continuous duty",
+      "Neither ever serves motors"
+    ],
+    "answer": 0,
+    "explanation": "Start capacitors assist startup for a short interval.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-022",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "Which capacitor is intended to remain in the circuit during running?",
+    "choices": [
+      "Run capacitor",
+      "Start capacitor only",
+      "Thermal overload",
+      "Centrifugal switch"
+    ],
+    "answer": 0,
+    "explanation": "Run capacitors are designed for continuous operating duty.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-023",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "How should replacement capacitor voltage rating compare with the original?",
+    "choices": [
+      "Equal or higher",
+      "Always lower",
+      "Exactly half",
+      "Unrelated to the original"
+    ],
+    "answer": 0,
+    "explanation": "The chapter requires an equal or greater voltage rating.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-024",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "Which is the preferred capacitor replacement?",
+    "choices": [
+      "An exact specified replacement",
+      "Any physically smaller capacitor",
+      "A lower-voltage substitute",
+      "Any capacitor with the same color"
+    ],
+    "answer": 0,
+    "explanation": "The chapter prefers an exact replacement over substitution guidelines.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-025",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "What happens to capacitance when capacitors are connected in parallel?",
+    "choices": [
+      "Their capacitances add",
+      "Their capacitances multiply directly",
+      "The total is always zero",
+      "The smallest alone determines total"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance is the sum of individual capacitances.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-026",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "Two equal capacitors in series have what total capacitance?",
+    "choices": [
+      "Half the capacitance of one",
+      "Twice the capacitance of one",
+      "The square of one",
+      "Zero in every case"
+    ],
+    "answer": 0,
+    "explanation": "For two equal capacitors, the product-over-sum formula gives half.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-027",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "A bulging run capacitor suggests what?",
+    "choices": [
+      "A defective capacitor",
+      "Guaranteed good operation",
+      "A required increase in motor speed",
+      "Correct refrigerant charge"
+    ],
+    "answer": 0,
+    "explanation": "Swelling is a defect indication described in the chapter.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-028",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitors (section begins on PDF p. 12)",
+    "level": "Basic",
+    "prompt": "What can damage a start capacitor if it stays energized too long?",
+    "choices": [
+      "Failure of the starting apparatus to remove it",
+      "Correct short starting cycles",
+      "Correct voltage rating",
+      "The presence of a diagram legend"
+    ],
+    "answer": 0,
+    "explanation": "A start capacitor is not designed to remain energized continuously.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-029",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "A split-phase motor uses which two windings for starting?",
+    "choices": [
+      "Start and run",
+      "Two condenser windings",
+      "Two lamp windings",
+      "Three equal phases only"
+    ],
+    "answer": 0,
+    "explanation": "Start and run winding phase displacement produces starting torque.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-030",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "At about what speed does a split-phase centrifugal switch remove the start winding?",
+    "choices": [
+      "75% of full speed",
+      "5% of full speed",
+      "100% above full speed",
+      "0% of full speed"
+    ],
+    "answer": 0,
+    "explanation": "The chapter uses about 75% of full speed.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-031",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "Which winding normally remains energized after a resistance-start motor is up to speed?",
+    "choices": [
+      "Run winding",
+      "Start winding alone",
+      "Neither winding",
+      "Only the grounded frame"
+    ],
+    "answer": 0,
+    "explanation": "The centrifugal switch removes the start winding while the run winding stays powered.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-032",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "Where is a capacitor-start motor's start capacitor placed electrically?",
+    "choices": [
+      "In series with the start winding and switch",
+      "Across the grounded frame",
+      "In series with the room air",
+      "Inside a pressure bulb"
+    ],
+    "answer": 0,
+    "explanation": "The capacitor is in the starting branch with the start winding.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-033",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "What does PSC stand for?",
+    "choices": [
+      "Permanent split-capacitor",
+      "Pressure safety contactor",
+      "Primary speed controller",
+      "Parallel start coil"
+    ],
+    "answer": 0,
+    "explanation": "PSC means permanent split-capacitor.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-034",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "A PSC motor keeps which capacitor in operation?",
+    "choices": [
+      "Run capacitor",
+      "Start capacitor only",
+      "No capacitor",
+      "A pressure capacitor"
+    ],
+    "answer": 0,
+    "explanation": "The run capacitor stays in the circuit during operation.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-035",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "Does a basic PSC motor require a switch to remove its start winding during normal running?",
+    "choices": [
+      "No",
+      "Yes, always a centrifugal switch",
+      "Yes, always a manual switch",
+      "Yes, always a disconnect operated each second"
+    ],
+    "answer": 0,
+    "explanation": "A PSC motor's capacitor-assisted branch remains in the circuit.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-036",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "What two capacitors are used by a CSR motor?",
+    "choices": [
+      "Start and run",
+      "Two identical start capacitors only",
+      "Two pressure capacitors",
+      "Two signal capacitors"
+    ],
+    "answer": 0,
+    "explanation": "CSR combines high start torque with a run capacitor for efficiency.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-037",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "Which CSR component is removed after starting?",
+    "choices": [
+      "Start capacitor",
+      "Run capacitor in every case",
+      "Main run winding",
+      "Motor grounding conductor"
+    ],
+    "answer": 0,
+    "explanation": "The start capacitor is removed while the run capacitor stays.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-038",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "What is the approximate phase displacement in a three-phase supply?",
+    "choices": [
+      "120 electrical degrees",
+      "10 electrical degrees",
+      "45 electrical degrees",
+      "360 electrical degrees between each phase"
+    ],
+    "answer": 0,
+    "explanation": "The three phases are displaced by approximately 120 degrees.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-039",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "Why does a three-phase motor normally not need a start capacitor?",
+    "choices": [
+      "Its supply already provides phase displacement",
+      "It has no magnetic field",
+      "It has no windings",
+      "It always starts by hand"
+    ],
+    "answer": 0,
+    "explanation": "Three-phase power produces the rotating magnetic field without single-phase starting apparatus.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-040",
+    "chapter": 8,
+    "source": "Chapter 8, 8.6-8.9 Motor types (section begins on PDF p. 16)",
+    "level": "Basic",
+    "prompt": "Which pair names common three-phase winding arrangements?",
+    "choices": [
+      "Wye and delta",
+      "Open and closed pressure",
+      "Hot and cold",
+      "Series and shunt lamps"
+    ],
+    "answer": 0,
+    "explanation": "The chapter identifies star/wye and delta configurations.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-041",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "Which two major sections make up an ECM?",
+    "choices": [
+      "Motor and control module",
+      "Condenser and evaporator",
+      "Lamp and fuse",
+      "Receiver and drier"
+    ],
+    "answer": 0,
+    "explanation": "An ECM combines a motor with its electronic controller.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-042",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "What type of rotor does the chapter describe in an ECM?",
+    "choices": [
+      "Permanent-magnet rotor",
+      "Only a wooden rotor",
+      "A refrigerant-filled bulb",
+      "A bimetal rotor"
+    ],
+    "answer": 0,
+    "explanation": "The ECM has permanent magnets on its rotor.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-043",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "What does ECM soft start mean?",
+    "choices": [
+      "It starts slowly and ramps to the target speed",
+      "It instantly jumps to maximum speed",
+      "It never turns",
+      "It uses no electrical supply"
+    ],
+    "answer": 0,
+    "explanation": "The electronic control ramps motor speed during startup.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-044",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "What should guide manufacturer-specific ECM troubleshooting?",
+    "choices": [
+      "Manufacturer instructions and troubleshooting charts",
+      "Only motor case color",
+      "Only refrigerant pressure",
+      "Only the age of the house"
+    ],
+    "answer": 0,
+    "explanation": "ECM control interfaces differ between manufacturers.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-045",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "What technology underlies a constant-torque motor?",
+    "choices": [
+      "ECM brushless DC technology",
+      "Only shaded-pole copper bands",
+      "Only resistance heaters",
+      "Steam pressure"
+    ],
+    "answer": 0,
+    "explanation": "A constant-torque motor uses electronic commutation and a control module.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-046",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "What do constant-torque terminals numbered 1 through 5 commonly select?",
+    "choices": [
+      "Programmed torque levels",
+      "Refrigerant types",
+      "High-voltage phases on every model",
+      "Five ground points"
+    ],
+    "answer": 0,
+    "explanation": "The low-voltage taps select preprogrammed torque levels.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-047",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "Where are a hermetic compressor motor and mechanism housed?",
+    "choices": [
+      "A sealed shell with oil and refrigerant",
+      "An open blower cabinet only",
+      "Inside a thermostat",
+      "Inside a disconnect"
+    ],
+    "answer": 0,
+    "explanation": "Hermetic compressor parts share a sealed shell.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-048",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "What do C, S, and R identify on a single-phase compressor?",
+    "choices": [
+      "Common, start, run",
+      "Condenser, suction, receiver",
+      "Current, speed, resistance",
+      "Closed, safety, relay"
+    ],
+    "answer": 0,
+    "explanation": "These letters identify the motor winding terminals.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-049",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "What does infinite resistance through an isolated winding indicate?",
+    "choices": [
+      "An open circuit",
+      "A healthy closed circuit in every case",
+      "A definite short circuit",
+      "Normal capacitance"
+    ],
+    "answer": 0,
+    "explanation": "An open winding has no continuity.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-050",
+    "chapter": 8,
+    "source": "Chapter 8, 8.10-8.12 Electronic and hermetic motors (section begins on PDF p. 27)",
+    "level": "Basic",
+    "prompt": "What is a grounded winding fault?",
+    "choices": [
+      "A winding has an unwanted path to the frame or shell",
+      "The frame is correctly bonded by a grounding wire",
+      "The motor uses the correct voltage",
+      "The motor has two windings"
+    ],
+    "answer": 0,
+    "explanation": "A grounded winding is insulation failure; protective equipment grounding is different.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-051",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "At a fixed supply frequency, a two-pole motor is replaced by a four-pole motor. What happens to synchronous speed?",
+    "choices": [
+      "It is halved",
+      "It doubles",
+      "It stays identical",
+      "It becomes zero"
+    ],
+    "answer": 0,
+    "explanation": "Synchronous speed is inversely proportional to pole count.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-052",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "A small fan has very low starting-torque requirements. Which chapter motor is a plausible choice?",
+    "choices": [
+      "Shaded-pole",
+      "Large three-phase compressor motor only",
+      "CSR required in all cases",
+      "Any resistance heater"
+    ],
+    "answer": 0,
+    "explanation": "Shaded-pole motors are used on small low-torque fans.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-053",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "A shaded-pole motor runs only on its high-speed tap. What could cause this?",
+    "choices": [
+      "An open section affecting other speed connections",
+      "A TEV bulb on the suction line",
+      "A normal contactor legend",
+      "A good capacitor in every case"
+    ],
+    "answer": 0,
+    "explanation": "Multispeed winding faults can disable individual speeds.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-054",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "Why cannot you usually reverse a shaded-pole motor simply by swapping supply wires?",
+    "choices": [
+      "Rotation depends on the physical shaded-pole position",
+      "It has no magnetic field",
+      "It uses three supply phases",
+      "It has no stator"
+    ],
+    "answer": 0,
+    "explanation": "The shaded section's location determines the starting direction.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-055",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "A split-phase motor overheats because its starting branch never drops out. What should be investigated?",
+    "choices": [
+      "Centrifugal switch stuck closed",
+      "Cooling TEV bulb location",
+      "Signal-light letter only",
+      "Condenser fan paint"
+    ],
+    "answer": 0,
+    "explanation": "A closed start switch leaves the starting branch energized and increases current.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-056",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "A split-phase motor has difficulty starting because its start branch never closes. Which fault fits?",
+    "choices": [
+      "Centrifugal switch stuck open",
+      "A correctly closed start switch",
+      "A good run winding alone proving normal startup",
+      "A correct frame label"
+    ],
+    "answer": 0,
+    "explanation": "An open switch prevents the starting winding from providing starting torque.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-057",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "Which change reverses a reversible split-phase motor according to the chapter?",
+    "choices": [
+      "Reverse start-winding leads relative to the run winding",
+      "Swap both supply lines only",
+      "Remove the ground conductor",
+      "Replace the thermostat lens"
+    ],
+    "answer": 0,
+    "explanation": "Reversing one winding relative to the other changes the starting direction.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-058",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "A load needs higher starting torque than a basic resistance-start motor. Which motor offers capacitor-assisted starting?",
+    "choices": [
+      "Capacitor-start",
+      "Shaded-pole only",
+      "Signal-light motor",
+      "Transformer only"
+    ],
+    "answer": 0,
+    "explanation": "A capacitor-start motor increases phase displacement and starting torque.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-059",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "Which motor keeps a run capacitor and does not normally remove the capacitor-assisted winding?",
+    "choices": [
+      "PSC",
+      "Resistance-start only",
+      "Shaded-pole",
+      "Three-phase without capacitors"
+    ],
+    "answer": 0,
+    "explanation": "The PSC capacitor and auxiliary winding remain during operation.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-060",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "A CSR motor is running normally. Which capacitor should still be connected?",
+    "choices": [
+      "Run capacitor",
+      "Start capacitor only",
+      "Both start and run continuously by design",
+      "Neither capacitor"
+    ],
+    "answer": 0,
+    "explanation": "The start capacitor is removed after startup; the run capacitor stays.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-061",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "A healthy three-phase motor's isolated windings should show what pattern?",
+    "choices": [
+      "Similar resistance readings",
+      "One winding always infinite",
+      "One winding always exactly zero",
+      "Random values are required"
+    ],
+    "answer": 0,
+    "explanation": "Comparable winding resistances support balanced motor windings.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-062",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "An ECM rocks briefly during startup. What is the best chapter interpretation?",
+    "choices": [
+      "It may be locating rotor position",
+      "It conclusively has a grounded winding",
+      "It must have a bad start capacitor",
+      "It is always mechanically seized"
+    ],
+    "answer": 0,
+    "explanation": "Brief rocking can be inherent ECM behavior; it is not by itself proof of failure.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-063",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "Why should ECM operation be checked under load?",
+    "choices": [
+      "No-load behavior can be erratic",
+      "No-load operation always gives exact airflow",
+      "The controller has no role under load",
+      "The motor only contains one wire"
+    ],
+    "answer": 0,
+    "explanation": "The chapter advises testing ECMs under load.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-064",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "An ECM does not operate. What supplies should be checked first?",
+    "choices": [
+      "Required line voltage and control signals",
+      "Only condenser water temperature",
+      "Only the lamp color",
+      "Only the motor price"
+    ],
+    "answer": 0,
+    "explanation": "Both power and the required control input must be present.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-065",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "Why should ECM power plugs not be connected or disconnected while energized?",
+    "choices": [
+      "It can damage the control module",
+      "It changes refrigerant type",
+      "It changes stator pole count",
+      "It automatically improves efficiency"
+    ],
+    "answer": 0,
+    "explanation": "The chapter warns against energized plugging and unplugging.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-066",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "A constant-torque shaft spins freely, correct line/control voltages are present, but the motor does not run. What is likely?",
+    "choices": [
+      "Control module failure",
+      "A missing TEV bulb",
+      "A closed cooling thermostat proving all motor parts good",
+      "A lamp color problem"
+    ],
+    "answer": 0,
+    "explanation": "With mechanical freedom and proper inputs verified, the module is a likely fault.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-067",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "How does a constant-torque motor differ from a constant-airflow ECM under heavy airflow restriction?",
+    "choices": [
+      "It does not maintain exact airflow in the same way",
+      "It always measures exact static pressure",
+      "It has no controller",
+      "It uses only high-voltage speed taps"
+    ],
+    "answer": 0,
+    "explanation": "Constant-torque control is not equivalent to maintaining a programmed constant airflow.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-068",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "Why are hermetic motor starting relays mounted outside the shell?",
+    "choices": [
+      "Internal starting switches are unsuitable inside the sealed refrigerant/oil environment",
+      "The external relay changes refrigerant color",
+      "The shell has no motor",
+      "Only outside air can energize a coil"
+    ],
+    "answer": 0,
+    "explanation": "The hermetic enclosure requires external starting apparatus.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-069",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "An isolated C-R winding reads 2 ohms and C-S reads 8 ohms. What should R-S read?",
+    "choices": [
+      "10 ohms",
+      "6 ohms",
+      "16 ohms",
+      "0.25 ohm"
+    ],
+    "answer": 0,
+    "explanation": "R-S measures both windings in series, so the two resistances add.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-070",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "Which winding usually has greater resistance in a basic single-phase compressor?",
+    "choices": [
+      "Start winding",
+      "Run winding",
+      "Both always exactly zero",
+      "Ground wire"
+    ],
+    "answer": 0,
+    "explanation": "The start winding ordinarily has the higher resistance.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-071",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "An isolated compressor has normal start/run continuity but no continuity from common to either terminal. What should be checked before condemning it?",
+    "choices": [
+      "An open internal overload in the common path",
+      "A signal-light color",
+      "A fan blade label",
+      "The TEV setpoint only"
+    ],
+    "answer": 0,
+    "explanation": "An open common-path overload can interrupt both common measurements while preserving R-S continuity.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-072",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "A compressor is mechanically locked but the windings test intact. Can the problem still stop the compressor electrically on overload?",
+    "choices": [
+      "Yes",
+      "No, intact windings guarantee rotation",
+      "No, overloads only respond to wire color",
+      "Only if the thermostat is absent"
+    ],
+    "answer": 0,
+    "explanation": "Mechanical lock can cause high current and overload opening.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-073",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "Why should an extremely hot compressor be allowed to cool before a final winding diagnosis?",
+    "choices": [
+      "Its internal overload may be open temporarily",
+      "Cooling changes the refrigerant brand",
+      "Cooling rewrites the nameplate",
+      "A hot shell proves every winding is shorted"
+    ],
+    "answer": 0,
+    "explanation": "The overload may reset after cooling, permitting valid winding readings.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-074",
+    "chapter": 8,
+    "source": "Chapter 8, motor applications",
+    "level": "Applied",
+    "prompt": "What is a useful first action during a customer service visit in the chapter?",
+    "choices": [
+      "Introduce yourself and ask about symptoms",
+      "Replace the compressor immediately",
+      "Ignore the work order",
+      "Guess based on the house color"
+    ],
+    "answer": 0,
+    "explanation": "The protocol starts with communication and symptom information.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-075",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "An isolated compressor measures A-B = 10 ohms, A-C = 2 ohms, B-C = 8 ohms. Which terminal is common?",
+    "choices": [
+      "C",
+      "A",
+      "B",
+      "Cannot be identified from these healthy readings"
+    ],
+    "answer": 0,
+    "explanation": "The common is the terminal shared by the two smaller measurements; A-B is the sum.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-076",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "Using A-B = 10, A-C = 2, B-C = 8 ohms, which terminal is run?",
+    "choices": [
+      "A",
+      "B",
+      "C",
+      "All three are run"
+    ],
+    "answer": 0,
+    "explanation": "The lower winding resistance C-A identifies the run winding.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-077",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "Using A-B = 10, A-C = 2, B-C = 8 ohms, which terminal is start?",
+    "choices": [
+      "B",
+      "A",
+      "C",
+      "All three are start"
+    ],
+    "answer": 0,
+    "explanation": "The larger common-to-winding resistance C-B identifies the start terminal.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-078",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "A compressor has normal winding-to-winding resistance but measurable unwanted continuity to its shell. Which diagnosis fits?",
+    "choices": [
+      "Insulation failure to ground",
+      "A normal protective ground connection proving the winding healthy",
+      "A guaranteed open start winding",
+      "A TEV fault"
+    ],
+    "answer": 0,
+    "explanation": "Winding-to-shell continuity can indicate grounded motor insulation.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-079",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "An ECM has balanced isolated windings and no ground fault, but behaves erratically with correct power. What is a reasonable next investigation?",
+    "choices": [
+      "Controller and signal connections",
+      "Replace the refrigerant receiver first",
+      "Remove the equipment ground",
+      "Assume the motor cannot ever fail electronically"
+    ],
+    "answer": 0,
+    "explanation": "Balanced motor windings direct further diagnosis toward controls and connections.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-080",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "Why can a start capacitor fail repeatedly even after replacement?",
+    "choices": [
+      "A start relay may leave it energized too long",
+      "The run capacitor is designed for continuous duty",
+      "The shaft turns normally",
+      "The schematic has a correct legend"
+    ],
+    "answer": 0,
+    "explanation": "A repeated failure requires correcting the cause, such as start apparatus that does not disconnect.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-081",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "What is the chapter's series-capacitance formula for two capacitors?",
+    "choices": [
+      "C1 times C2 divided by C1 plus C2",
+      "C1 plus C2 only",
+      "C1 minus C2 only",
+      "C1 times C2 without division"
+    ],
+    "answer": 0,
+    "explanation": "Two series capacitors use the product divided by the sum.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-082",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "Under the chapter's substitution guide, what is the allowed start-capacitor capacitance range?",
+    "choices": [
+      "Original value through 20% higher",
+      "20% below through original only",
+      "Exactly half through original",
+      "Any value if case size matches"
+    ],
+    "answer": 0,
+    "explanation": "The guide allows equal capacitance up to 20% greater; exact manufacturer specifications are preferred.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-083",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "Under the chapter's substitution guide, what is the allowed run-capacitor capacitance variation?",
+    "choices": [
+      "Plus or minus 10%",
+      "Plus or minus 80%",
+      "Only 50% higher",
+      "Any capacitance with higher voltage"
+    ],
+    "answer": 0,
+    "explanation": "The chapter gives a plus-or-minus 10% guide and prefers exact replacement specifications.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-084",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "Two otherwise identical motors have different pole counts. Which explanation correctly predicts their synchronous speeds?",
+    "choices": [
+      "More poles mean lower speed at equal frequency",
+      "More poles always mean higher speed",
+      "Pole count has no effect",
+      "Voltage alone sets synchronous speed"
+    ],
+    "answer": 0,
+    "explanation": "The pole count is the divisor in the synchronous-speed equation.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-085",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "A variable-speed system runs longer at reduced capacity instead of repeatedly cycling at full capacity. What chapter benefit does this provide?",
+    "choices": [
+      "Reduced frequent-start losses and closer load matching",
+      "Elimination of all electrical use",
+      "No need for any control module",
+      "Unlimited starting current"
+    ],
+    "answer": 0,
+    "explanation": "The chapter links capacity matching with fewer starts and better efficiency.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-086",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "A resistance-start motor's start switch remains closed at full speed. Which chain is most plausible?",
+    "choices": [
+      "Starting branch remains energized, current rises, overload may trip",
+      "Current becomes zero and torque becomes infinite",
+      "Refrigerant changes to water",
+      "Motor permanently changes its pole count"
+    ],
+    "answer": 0,
+    "explanation": "The starting circuit should be removed after the motor accelerates.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-087",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "A compressor has correct voltage, intact windings, good start components, and persistent locked-rotor current without rotation. What fault is likely?",
+    "choices": [
+      "Mechanical seizure",
+      "A missing pictorial legend alone",
+      "A wrong signal-light lens",
+      "Normal operation"
+    ],
+    "answer": 0,
+    "explanation": "The chapter service calls distinguish mechanical lock from intact electrical components.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-088",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "Why is an electrical motor diagnosis incomplete if bearing condition is ignored?",
+    "choices": [
+      "Mechanical drag can imitate electrical starting trouble",
+      "Bearings always regulate voltage",
+      "Bearings replace all motor windings",
+      "Bearing wear cannot affect rotation"
+    ],
+    "answer": 0,
+    "explanation": "Mechanical resistance can prevent startup or cause overload even when windings are intact.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-089",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "Why should the highest resistance pair be found before identifying single-phase compressor terminals?",
+    "choices": [
+      "It identifies the two winding ends, leaving common as the third terminal",
+      "It identifies the grounding wire as run",
+      "It proves a shorted winding",
+      "It directly gives refrigerant pressure"
+    ],
+    "answer": 0,
+    "explanation": "The largest healthy resistance is start-to-run, the sum of the two winding resistances.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-090",
+    "chapter": 8,
+    "source": "Chapter 8, motor synthesis",
+    "level": "Advanced",
+    "prompt": "A student claims constant-torque and constant-airflow motors guarantee identical airflow as a filter becomes heavily clogged. What is the best correction?",
+    "choices": [
+      "The control goals differ; constant torque does not guarantee constant airflow",
+      "Both motor types eliminate all restriction",
+      "Constant torque has no electrical controller",
+      "Both are shaded-pole motors"
+    ],
+    "answer": 0,
+    "explanation": "The chapter distinguishes constant-torque behavior from constant-airflow regulation.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-091",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 2-pole motor at 40 Hz?",
+    "choices": [
+      "2400 rpm",
+      "4800 rpm",
+      "1200 rpm",
+      "2520 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 40 / 2 = 2400 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-092",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 2-pole motor at 50 Hz?",
+    "choices": [
+      "3000 rpm",
+      "6000 rpm",
+      "1500 rpm",
+      "3120 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 50 / 2 = 3000 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-093",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 2-pole motor at 60 Hz?",
+    "choices": [
+      "3600 rpm",
+      "7200 rpm",
+      "1800 rpm",
+      "3720 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 60 / 2 = 3600 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-094",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 4-pole motor at 40 Hz?",
+    "choices": [
+      "1200 rpm",
+      "2400 rpm",
+      "600 rpm",
+      "1320 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 40 / 4 = 1200 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-095",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 4-pole motor at 50 Hz?",
+    "choices": [
+      "1500 rpm",
+      "3000 rpm",
+      "750 rpm",
+      "1620 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 50 / 4 = 1500 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-096",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 4-pole motor at 60 Hz?",
+    "choices": [
+      "1800 rpm",
+      "3600 rpm",
+      "900 rpm",
+      "1920 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 60 / 4 = 1800 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-097",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 6-pole motor at 40 Hz?",
+    "choices": [
+      "800 rpm",
+      "1600 rpm",
+      "400 rpm",
+      "920 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 40 / 6 = 800 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-098",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 6-pole motor at 50 Hz?",
+    "choices": [
+      "1000 rpm",
+      "2000 rpm",
+      "500 rpm",
+      "1120 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 50 / 6 = 1000 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-099",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 6-pole motor at 60 Hz?",
+    "choices": [
+      "1200 rpm",
+      "2400 rpm",
+      "600 rpm",
+      "1320 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 60 / 6 = 1200 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-100",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 8-pole motor at 40 Hz?",
+    "choices": [
+      "600 rpm",
+      "1200 rpm",
+      "300 rpm",
+      "720 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 40 / 8 = 600 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-101",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 8-pole motor at 50 Hz?",
+    "choices": [
+      "750 rpm",
+      "1500 rpm",
+      "375 rpm",
+      "870 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 50 / 8 = 750 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-102",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 8-pole motor at 60 Hz?",
+    "choices": [
+      "900 rpm",
+      "1800 rpm",
+      "450 rpm",
+      "1020 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 60 / 8 = 900 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-103",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 10-pole motor at 40 Hz?",
+    "choices": [
+      "480 rpm",
+      "960 rpm",
+      "240 rpm",
+      "600 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 40 / 10 = 480 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-104",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 10-pole motor at 50 Hz?",
+    "choices": [
+      "600 rpm",
+      "1200 rpm",
+      "300 rpm",
+      "720 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 50 / 10 = 600 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-105",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 10-pole motor at 60 Hz?",
+    "choices": [
+      "720 rpm",
+      "1440 rpm",
+      "360 rpm",
+      "840 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 60 / 10 = 720 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-106",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 12-pole motor at 40 Hz?",
+    "choices": [
+      "400 rpm",
+      "800 rpm",
+      "200 rpm",
+      "520 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 40 / 12 = 400 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-107",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 12-pole motor at 50 Hz?",
+    "choices": [
+      "500 rpm",
+      "1000 rpm",
+      "250 rpm",
+      "620 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 50 / 12 = 500 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-108",
+    "chapter": 8,
+    "source": "Chapter 8, 8.3 Motor speed (section begins on PDF p. 6)",
+    "level": "Applied",
+    "prompt": "Using Ns = 120f / P, what is the synchronous speed of a 12-pole motor at 60 Hz?",
+    "choices": [
+      "600 rpm",
+      "1200 rpm",
+      "300 rpm",
+      "720 rpm"
+    ],
+    "answer": 0,
+    "explanation": "120 × 60 / 12 = 600 rpm. Actual induction rotor speed under load is lower.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-109",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 5 and 10 microfarads in parallel?",
+    "choices": [
+      "15 microfarads",
+      "5 microfarads",
+      "10 microfarads",
+      "25 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 5 + 10 = 15 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-110",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 10 and 15 microfarads in parallel?",
+    "choices": [
+      "25 microfarads",
+      "5 microfarads",
+      "15 microfarads",
+      "35 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 10 + 15 = 25 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-111",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 15 and 20 microfarads in parallel?",
+    "choices": [
+      "35 microfarads",
+      "5 microfarads",
+      "20 microfarads",
+      "45 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 15 + 20 = 35 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-112",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 20 and 30 microfarads in parallel?",
+    "choices": [
+      "50 microfarads",
+      "10 microfarads",
+      "30 microfarads",
+      "60 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 20 + 30 = 50 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-113",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 25 and 35 microfarads in parallel?",
+    "choices": [
+      "60 microfarads",
+      "10 microfarads",
+      "35 microfarads",
+      "70 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 25 + 35 = 60 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-114",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 30 and 40 microfarads in parallel?",
+    "choices": [
+      "70 microfarads",
+      "10 microfarads",
+      "40 microfarads",
+      "80 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 30 + 40 = 70 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-115",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 35 and 45 microfarads in parallel?",
+    "choices": [
+      "80 microfarads",
+      "10 microfarads",
+      "45 microfarads",
+      "90 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 35 + 45 = 80 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-116",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 40 and 50 microfarads in parallel?",
+    "choices": [
+      "90 microfarads",
+      "10 microfarads",
+      "50 microfarads",
+      "100 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 40 + 50 = 90 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-117",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 45 and 55 microfarads in parallel?",
+    "choices": [
+      "100 microfarads",
+      "10 microfarads",
+      "55 microfarads",
+      "110 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 45 + 55 = 100 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-118",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 50 and 60 microfarads in parallel?",
+    "choices": [
+      "110 microfarads",
+      "10 microfarads",
+      "60 microfarads",
+      "120 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 50 + 60 = 110 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-119",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 60 and 70 microfarads in parallel?",
+    "choices": [
+      "130 microfarads",
+      "10 microfarads",
+      "70 microfarads",
+      "140 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 60 + 70 = 130 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-120",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor parallel rule (section begins on PDF p. 12)",
+    "level": "Applied",
+    "prompt": "What is the total capacitance of 70 and 80 microfarads in parallel?",
+    "choices": [
+      "150 microfarads",
+      "10 microfarads",
+      "80 microfarads",
+      "160 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitance adds: 70 + 80 = 150 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-121",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 10 and 10 microfarads?",
+    "choices": [
+      "5 microfarads",
+      "20 microfarads",
+      "10 microfarads",
+      "2.5 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(10 × 10) / (10 + 10) = 5 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-122",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 20 and 20 microfarads?",
+    "choices": [
+      "10 microfarads",
+      "40 microfarads",
+      "20 microfarads",
+      "5 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(20 × 20) / (20 + 20) = 10 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-123",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 30 and 30 microfarads?",
+    "choices": [
+      "15 microfarads",
+      "60 microfarads",
+      "30 microfarads",
+      "7.5 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(30 × 30) / (30 + 30) = 15 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-124",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 40 and 40 microfarads?",
+    "choices": [
+      "20 microfarads",
+      "80 microfarads",
+      "40 microfarads",
+      "10 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(40 × 40) / (40 + 40) = 20 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-125",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 50 and 50 microfarads?",
+    "choices": [
+      "25 microfarads",
+      "100 microfarads",
+      "50 microfarads",
+      "12.5 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(50 × 50) / (50 + 50) = 25 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-126",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 60 and 60 microfarads?",
+    "choices": [
+      "30 microfarads",
+      "120 microfarads",
+      "60 microfarads",
+      "15 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(60 × 60) / (60 + 60) = 30 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-127",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 10 and 30 microfarads?",
+    "choices": [
+      "7.5 microfarads",
+      "40 microfarads",
+      "15 microfarads",
+      "3.75 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(10 × 30) / (10 + 30) = 7.5 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-128",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 15 and 30 microfarads?",
+    "choices": [
+      "10 microfarads",
+      "45 microfarads",
+      "20 microfarads",
+      "5 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(15 × 30) / (15 + 30) = 10 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-129",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 20 and 40 microfarads?",
+    "choices": [
+      "13.3333 microfarads",
+      "60 microfarads",
+      "26.6667 microfarads",
+      "6.66667 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(20 × 40) / (20 + 40) = 13.3333 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-130",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 30 and 60 microfarads?",
+    "choices": [
+      "20 microfarads",
+      "90 microfarads",
+      "40 microfarads",
+      "10 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(30 × 60) / (30 + 60) = 20 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-131",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 40 and 80 microfarads?",
+    "choices": [
+      "26.6667 microfarads",
+      "120 microfarads",
+      "53.3333 microfarads",
+      "13.3333 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(40 × 80) / (40 + 80) = 26.6667 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-132",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Capacitor series rule (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using C = (C1 × C2) / (C1 + C2), what is the series capacitance of 60 and 120 microfarads?",
+    "choices": [
+      "40 microfarads",
+      "180 microfarads",
+      "80 microfarads",
+      "20 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "(60 × 120) / (60 + 120) = 40 microfarads.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-133",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 1 ohms and C-S is 3 ohms. What should R-S be?",
+    "choices": [
+      "4 ohms",
+      "2 ohms",
+      "3 ohms",
+      "6 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 1 + 3 = 4 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-134",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 2 ohms and C-S is 5 ohms. What should R-S be?",
+    "choices": [
+      "7 ohms",
+      "3 ohms",
+      "10 ohms",
+      "9 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 2 + 5 = 7 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-135",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 3 ohms and C-S is 7 ohms. What should R-S be?",
+    "choices": [
+      "10 ohms",
+      "4 ohms",
+      "21 ohms",
+      "12 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 3 + 7 = 10 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-136",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 4 ohms and C-S is 9 ohms. What should R-S be?",
+    "choices": [
+      "13 ohms",
+      "5 ohms",
+      "36 ohms",
+      "15 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 4 + 9 = 13 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-137",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 5 ohms and C-S is 11 ohms. What should R-S be?",
+    "choices": [
+      "16 ohms",
+      "6 ohms",
+      "55 ohms",
+      "18 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 5 + 11 = 16 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-138",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 6 ohms and C-S is 13 ohms. What should R-S be?",
+    "choices": [
+      "19 ohms",
+      "7 ohms",
+      "78 ohms",
+      "21 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 6 + 13 = 19 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-139",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 7 ohms and C-S is 15 ohms. What should R-S be?",
+    "choices": [
+      "22 ohms",
+      "8 ohms",
+      "105 ohms",
+      "24 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 7 + 15 = 22 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-140",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 8 ohms and C-S is 17 ohms. What should R-S be?",
+    "choices": [
+      "25 ohms",
+      "9 ohms",
+      "136 ohms",
+      "27 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 8 + 17 = 25 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-141",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 9 ohms and C-S is 19 ohms. What should R-S be?",
+    "choices": [
+      "28 ohms",
+      "10 ohms",
+      "171 ohms",
+      "30 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 9 + 19 = 28 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-142",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 10 ohms and C-S is 21 ohms. What should R-S be?",
+    "choices": [
+      "31 ohms",
+      "11 ohms",
+      "210 ohms",
+      "33 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 10 + 21 = 31 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-143",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 12 ohms and C-S is 25 ohms. What should R-S be?",
+    "choices": [
+      "37 ohms",
+      "13 ohms",
+      "300 ohms",
+      "39 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 12 + 25 = 37 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-144",
+    "chapter": 8,
+    "source": "Chapter 8, 8.12 Terminal identification (section begins on PDF p. 37)",
+    "level": "Advanced",
+    "prompt": "On an isolated healthy single-phase compressor, C-R is 15 ohms and C-S is 30 ohms. What should R-S be?",
+    "choices": [
+      "45 ohms",
+      "15 ohms",
+      "450 ohms",
+      "47 ohms"
+    ],
+    "answer": 0,
+    "explanation": "The winding resistances add: 15 + 30 = 45 ohms.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-145",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using only the chapter ±10% guide, what range corresponds to a 10-microfarad run capacitor?",
+    "choices": [
+      "9–11 microfarads",
+      "10–12 microfarads",
+      "8–12 microfarads",
+      "5–10 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "10 × 0.90 = 9; 10 × 1.10 = 11. Prefer the exact specified replacement.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-146",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using only the chapter ±10% guide, what range corresponds to a 20-microfarad run capacitor?",
+    "choices": [
+      "18–22 microfarads",
+      "20–24 microfarads",
+      "16–24 microfarads",
+      "10–20 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "20 × 0.90 = 18; 20 × 1.10 = 22. Prefer the exact specified replacement.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-147",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using only the chapter ±10% guide, what range corresponds to a 30-microfarad run capacitor?",
+    "choices": [
+      "27–33 microfarads",
+      "30–36 microfarads",
+      "24–36 microfarads",
+      "15–30 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "30 × 0.90 = 27; 30 × 1.10 = 33. Prefer the exact specified replacement.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-148",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using only the chapter ±10% guide, what range corresponds to a 40-microfarad run capacitor?",
+    "choices": [
+      "36–44 microfarads",
+      "40–48 microfarads",
+      "32–48 microfarads",
+      "20–40 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "40 × 0.90 = 36; 40 × 1.10 = 44. Prefer the exact specified replacement.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-149",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using only the chapter ±10% guide, what range corresponds to a 50-microfarad run capacitor?",
+    "choices": [
+      "45–55 microfarads",
+      "50–60 microfarads",
+      "40–60 microfarads",
+      "25–50 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "50 × 0.90 = 45; 50 × 1.10 = 55. Prefer the exact specified replacement.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-150",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using only the chapter ±10% guide, what range corresponds to a 60-microfarad run capacitor?",
+    "choices": [
+      "54–66 microfarads",
+      "60–72 microfarads",
+      "48–72 microfarads",
+      "30–60 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "60 × 0.90 = 54; 60 × 1.10 = 66. Prefer the exact specified replacement.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-151",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using only the chapter ±10% guide, what range corresponds to a 70-microfarad run capacitor?",
+    "choices": [
+      "63–77 microfarads",
+      "70–84 microfarads",
+      "56–84 microfarads",
+      "35–70 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "70 × 0.90 = 63; 70 × 1.10 = 77. Prefer the exact specified replacement.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-152",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using only the chapter ±10% guide, what range corresponds to a 80-microfarad run capacitor?",
+    "choices": [
+      "72–88 microfarads",
+      "80–96 microfarads",
+      "64–96 microfarads",
+      "40–80 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "80 × 0.90 = 72; 80 × 1.10 = 88. Prefer the exact specified replacement.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-153",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using the chapter start-capacitor guide, what is the upper capacitance limit for replacing a 50-microfarad start capacitor?",
+    "choices": [
+      "60 microfarads",
+      "55 microfarads",
+      "40 microfarads",
+      "75 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "The guide permits at most 20% above the original: 50 × 1.20 = 60. Voltage must also be equal or higher.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-154",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using the chapter start-capacitor guide, what is the upper capacitance limit for replacing a 75-microfarad start capacitor?",
+    "choices": [
+      "90 microfarads",
+      "82.5 microfarads",
+      "60 microfarads",
+      "112.5 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "The guide permits at most 20% above the original: 75 × 1.20 = 90. Voltage must also be equal or higher.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-155",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using the chapter start-capacitor guide, what is the upper capacitance limit for replacing a 100-microfarad start capacitor?",
+    "choices": [
+      "120 microfarads",
+      "110 microfarads",
+      "80 microfarads",
+      "150 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "The guide permits at most 20% above the original: 100 × 1.20 = 120. Voltage must also be equal or higher.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-156",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using the chapter start-capacitor guide, what is the upper capacitance limit for replacing a 125-microfarad start capacitor?",
+    "choices": [
+      "150 microfarads",
+      "137.5 microfarads",
+      "100 microfarads",
+      "187.5 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "The guide permits at most 20% above the original: 125 × 1.20 = 150. Voltage must also be equal or higher.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-157",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using the chapter start-capacitor guide, what is the upper capacitance limit for replacing a 150-microfarad start capacitor?",
+    "choices": [
+      "180 microfarads",
+      "165 microfarads",
+      "120 microfarads",
+      "225 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "The guide permits at most 20% above the original: 150 × 1.20 = 180. Voltage must also be equal or higher.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-158",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using the chapter start-capacitor guide, what is the upper capacitance limit for replacing a 200-microfarad start capacitor?",
+    "choices": [
+      "240 microfarads",
+      "220 microfarads",
+      "160 microfarads",
+      "300 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "The guide permits at most 20% above the original: 200 × 1.20 = 240. Voltage must also be equal or higher.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-159",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using the chapter start-capacitor guide, what is the upper capacitance limit for replacing a 250-microfarad start capacitor?",
+    "choices": [
+      "300 microfarads",
+      "275 microfarads",
+      "200 microfarads",
+      "375 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "The guide permits at most 20% above the original: 250 × 1.20 = 300. Voltage must also be equal or higher.",
+    "pool": "previous"
+  },
+  {
+    "id": "C8-160",
+    "chapter": 8,
+    "source": "Chapter 8, 8.5 Chapter substitution guide (section begins on PDF p. 12)",
+    "level": "Advanced",
+    "prompt": "Using the chapter start-capacitor guide, what is the upper capacitance limit for replacing a 300-microfarad start capacitor?",
+    "choices": [
+      "360 microfarads",
+      "330 microfarads",
+      "240 microfarads",
+      "450 microfarads"
+    ],
+    "answer": 0,
+    "explanation": "The guide permits at most 20% above the original: 300 × 1.20 = 360. Voltage must also be equal or higher.",
+    "pool": "previous"
+  },
+  {
+    "id": "R5-01",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 1",
+    "pool": "review",
+    "prompt": "What protective feature is absent from a plain contactor but included in a magnetic starter?",
+    "choices": [
+      "Built-in overload protection",
+      "A magnetic coil",
+      "Power contacts",
+      "Mechanical linkage"
+    ],
+    "answer": 0,
+    "explanation": "A starter includes overload protection; a plain contactor does not."
+  },
+  {
+    "id": "R5-02",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 2",
+    "pool": "review",
+    "prompt": "Which device is effective against a large overload but less effective against a small sustained overload?",
+    "choices": [
+      "Fuse",
+      "Thermostat",
+      "Signal light",
+      "Condenser"
+    ],
+    "answer": 0,
+    "explanation": "The chapter describes the fuse as the simplest overload device, with limitations on small overloads."
+  },
+  {
+    "id": "R5-03",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 3",
+    "pool": "review",
+    "prompt": "What produces the contact movement in a relay or contactor?",
+    "choices": [
+      "Solenoid coil",
+      "Fan blade",
+      "Insulator block",
+      "Resistance heater alone"
+    ],
+    "answer": 0,
+    "explanation": "An energized solenoid produces magnetic force to move the contacts."
+  },
+  {
+    "id": "R5-04",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 4",
+    "pool": "review",
+    "prompt": "A bimetal element belongs to which overload category?",
+    "choices": [
+      "Thermal",
+      "Optical",
+      "Refrigerant",
+      "Pneumatic only"
+    ],
+    "answer": 0,
+    "explanation": "Heat bends the bimetal element and can open the circuit."
+  },
+  {
+    "id": "R5-05",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 5",
+    "pool": "review",
+    "prompt": "Which device uses a coil and contacts to switch a larger HVAC electrical load?",
+    "choices": [
+      "Contactor",
+      "Capacitor",
+      "Heater element",
+      "Motor shaft"
+    ],
+    "answer": 0,
+    "explanation": "A contactor combines an electromagnetic coil with contacts for switching loads."
+  },
+  {
+    "id": "R5-06",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 6",
+    "pool": "review",
+    "prompt": "According to the chapter, what distinguishes heater purposes when their basic symbol is the same?",
+    "choices": [
+      "Letter designations",
+      "Different paper colors",
+      "Only the voltage font",
+      "Only wire thickness"
+    ],
+    "answer": 0,
+    "explanation": "The chapter uses the same basic heater symbol with letters identifying its purpose."
+  },
+  {
+    "id": "R5-07",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 7",
+    "pool": "review",
+    "prompt": "Which term describes contact position with the device de-energized?",
+    "choices": [
+      "Normally",
+      "Overloaded",
+      "Running",
+      "Grounded"
+    ],
+    "answer": 0,
+    "explanation": "Normally refers to the de-energized contact state."
+  },
+  {
+    "id": "R5-08",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 8",
+    "pool": "review",
+    "prompt": "In the chapter's basic mechanical thermostat, what moves the contacts?",
+    "choices": [
+      "A temperature-sensing element and mechanical linkage",
+      "A rotating compressor piston",
+      "The room air directly conducting electricity",
+      "A capacitor oil pump"
+    ],
+    "answer": 0,
+    "explanation": "The sensing element moves the contacts mechanically."
+  },
+  {
+    "id": "R5-09",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 9",
+    "pool": "review",
+    "prompt": "What group includes motors, solenoids, and resistance heaters?",
+    "choices": [
+      "Electrical loads",
+      "Only switches",
+      "Only insulators",
+      "Only conductors"
+    ],
+    "answer": 0,
+    "explanation": "All consume electricity to perform useful work."
+  },
+  {
+    "id": "R5-10",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 10",
+    "pool": "review",
+    "prompt": "What diagram label can identify the job a motor performs in a system?",
+    "choices": [
+      "Letter designation",
+      "Refrigerant color",
+      "Paper size",
+      "Capacitor case shape"
+    ],
+    "answer": 0,
+    "explanation": "Letter designations help identify component purpose; consult the legend."
+  },
+  {
+    "id": "R5-11",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 11",
+    "pool": "review",
+    "prompt": "Which device raises or lowers incoming voltage?",
+    "choices": [
+      "Transformer",
+      "Disconnect blade",
+      "Fuse link",
+      "Thermostat bulb"
+    ],
+    "answer": 0,
+    "explanation": "A transformer changes voltage to the required level."
+  },
+  {
+    "id": "R5-12",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 12",
+    "pool": "review",
+    "prompt": "Electrical loads consume electricity to do what kind of work?",
+    "choices": [
+      "Useful work",
+      "Only lettering work",
+      "Only insulation work",
+      "No work"
+    ],
+    "answer": 0,
+    "explanation": "Useful output can be motion, heat, light, or magnetic action."
+  },
+  {
+    "id": "R5-13",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 13",
+    "pool": "review",
+    "prompt": "What creates a magnetic field when energized and can actuate another component?",
+    "choices": [
+      "Solenoid",
+      "Pictorial diagram",
+      "Fuse housing",
+      "Receiver"
+    ],
+    "answer": 0,
+    "explanation": "An energized solenoid can move relay contacts or a valve mechanism."
+  },
+  {
+    "id": "R5-14",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 14",
+    "pool": "review",
+    "prompt": "A conventional fuse link is made from what type of material?",
+    "choices": [
+      "Metal",
+      "Plastic insulation",
+      "Glass only",
+      "Paper only"
+    ],
+    "answer": 0,
+    "explanation": "The conductive metal element opens when excessive current causes it to melt."
+  },
+  {
+    "id": "R5-15",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 15",
+    "pool": "review",
+    "prompt": "Which electrical device produces rotating movement for a driven component?",
+    "choices": [
+      "Motor",
+      "Battery case",
+      "Switch handle",
+      "Fuse holder"
+    ],
+    "answer": 0,
+    "explanation": "A motor converts electrical energy into rotating mechanical output."
+  },
+  {
+    "id": "R5-16",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 16",
+    "pool": "review",
+    "prompt": "Which switch term identifies the available switching connection positions?",
+    "choices": [
+      "Throw",
+      "Pole count only",
+      "Coil voltage only",
+      "Motor speed"
+    ],
+    "answer": 0,
+    "explanation": "Throw describes the connection positions or paths a switch can select."
+  },
+  {
+    "id": "R5-17",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 17",
+    "pool": "review",
+    "prompt": "A component changes a 240 V input to a 24 V control supply. Identify it.",
+    "choices": [
+      "Step-down transformer",
+      "Start capacitor",
+      "Signal light",
+      "Pressure switch"
+    ],
+    "answer": 0,
+    "explanation": "A transformer can reduce the voltage used in control circuits."
+  },
+  {
+    "id": "R5-18",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 18",
+    "pool": "review",
+    "prompt": "Which diagram is also called a label or line diagram in this chapter?",
+    "choices": [
+      "Pictorial",
+      "Installation only",
+      "Pressure chart",
+      "Motor speed graph"
+    ],
+    "answer": 0,
+    "explanation": "The chapter uses these names for the pictorial wiring diagram."
+  },
+  {
+    "id": "R5-19",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 19",
+    "pool": "review",
+    "prompt": "Which devices perform the useful work in an HVAC electrical system?",
+    "choices": [
+      "Loads",
+      "Insulation sleeves only",
+      "Diagram borders",
+      "Wire labels only"
+    ],
+    "answer": 0,
+    "explanation": "Loads produce the useful mechanical, heating, lighting, or magnetic output."
+  },
+  {
+    "id": "R5-20",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 20",
+    "pool": "review",
+    "prompt": "Besides a contactor, which device commonly controls a compressor and includes overload protection?",
+    "choices": [
+      "Magnetic starter",
+      "Signal light",
+      "Run capacitor",
+      "Suction bulb"
+    ],
+    "answer": 0,
+    "explanation": "A magnetic starter combines switching with overload protection."
+  },
+  {
+    "id": "R5-21",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 21",
+    "pool": "review",
+    "prompt": "Which term means one set of electrical contacts?",
+    "choices": [
+      "Pole",
+      "Throw",
+      "Microfarad",
+      "Torque"
+    ],
+    "answer": 0,
+    "explanation": "A pole is one contact set or switched circuit."
+  },
+  {
+    "id": "R5-22",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 22",
+    "pool": "review",
+    "prompt": "Which load can use magnetism to move a valve mechanism?",
+    "choices": [
+      "Solenoid",
+      "Fan blade",
+      "Disconnect housing",
+      "Transformer label"
+    ],
+    "answer": 0,
+    "explanation": "The solenoid coil develops magnetic force for actuation."
+  },
+  {
+    "id": "R5-23",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 23",
+    "pool": "review",
+    "prompt": "Which switch opens or closes the main power source to equipment?",
+    "choices": [
+      "Disconnect switch",
+      "Cooling thermostat only",
+      "TEV",
+      "Starting capacitor"
+    ],
+    "answer": 0,
+    "explanation": "The disconnect controls equipment supply power."
+  },
+  {
+    "id": "R5-24",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 24",
+    "pool": "review",
+    "prompt": "Which device illuminates to show a system condition?",
+    "choices": [
+      "Signal light",
+      "Receiver",
+      "Heater coil",
+      "Capacitor"
+    ],
+    "answer": 0,
+    "explanation": "Signal lights provide visual condition indications."
+  },
+  {
+    "id": "R5-25",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 25",
+    "pool": "review",
+    "prompt": "Which load converts electricity to heat?",
+    "choices": [
+      "Resistance heater",
+      "Relay contact alone",
+      "Disconnect handle",
+      "Diagram legend"
+    ],
+    "answer": 0,
+    "explanation": "A resistance heater's useful output is heat."
+  },
+  {
+    "id": "R5-26",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 26",
+    "pool": "review",
+    "prompt": "Which diagram explains how, when, and why a system operates?",
+    "choices": [
+      "Schematic diagram",
+      "Installation terminal list alone",
+      "Equipment photograph alone",
+      "Parts price list"
+    ],
+    "answer": 0,
+    "explanation": "Schematic circuits show the relationships that determine operation."
+  },
+  {
+    "id": "R5-27",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 27",
+    "pool": "review",
+    "prompt": "A thermal overload opens a contactor coil circuit instead of directly opening motor power. What duty is this?",
+    "choices": [
+      "Pilot duty",
+      "Refrigerant duty",
+      "Lighting duty only",
+      "Bearing duty"
+    ],
+    "answer": 0,
+    "explanation": "A pilot-duty protection device interrupts the control circuit."
+  },
+  {
+    "id": "R5-28",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 28",
+    "pool": "review",
+    "prompt": "Which loads drive compressors, pumps, and fans in this chapter?",
+    "choices": [
+      "Motors",
+      "Fuse links",
+      "Pressure switches alone",
+      "Insulating sleeves"
+    ],
+    "answer": 0,
+    "explanation": "These driven components require rotating mechanical motion."
+  },
+  {
+    "id": "R5-29",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 29",
+    "pool": "review",
+    "prompt": "Which diagram gives terminals, wire sizes, color coding, and breaker or fuse sizes?",
+    "choices": [
+      "Installation diagram",
+      "Signal-light chart",
+      "Magnetic field sketch",
+      "Motor cross-section"
+    ],
+    "answer": 0,
+    "explanation": "Installation diagrams provide hookup information."
+  },
+  {
+    "id": "R5-30",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 30",
+    "pool": "review",
+    "prompt": "Why is an energized solenoid classified as a load?",
+    "choices": [
+      "It consumes electricity to do useful work",
+      "It is always a manual switch",
+      "It contains no coil",
+      "It never draws current"
+    ],
+    "answer": 0,
+    "explanation": "Creating magnetic action requires electrical energy."
+  },
+  {
+    "id": "R5-31",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 31",
+    "pool": "review",
+    "prompt": "Which switch category includes a basic thermostat actuated by a sensing element and linkage?",
+    "choices": [
+      "Mechanically operated",
+      "Throwback",
+      "Refrigerant compressor",
+      "Capacitance operated only"
+    ],
+    "answer": 0,
+    "explanation": "The source chapter describes basic thermostats as mechanically operated switches."
+  },
+  {
+    "id": "R5-32",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 32",
+    "pool": "review",
+    "prompt": "In this chapter's general classification, contactors are described as carrying what current?",
+    "choices": [
+      "20 amperes or more",
+      "Only below 1 ampere",
+      "Exactly 5 amperes for all models",
+      "No current"
+    ],
+    "answer": 0,
+    "explanation": "This is the chapter's convention. Actual device selection uses the manufacturer's ratings."
+  },
+  {
+    "id": "R5-33",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 33",
+    "pool": "review",
+    "prompt": "What operates a manually operated switch?",
+    "choices": [
+      "Manual force",
+      "Only humidity",
+      "Only pressure",
+      "Only airflow"
+    ],
+    "answer": 0,
+    "explanation": "An operator physically moves the switch or presses its button."
+  },
+  {
+    "id": "R5-34",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 34",
+    "pool": "review",
+    "prompt": "What is the installation diagram primarily intended to help an electrician do?",
+    "choices": [
+      "Connect the unit wiring correctly",
+      "Calculate motor slip only",
+      "Adjust evaporator superheat only",
+      "Choose a lamp color only"
+    ],
+    "answer": 0,
+    "explanation": "It supports correct equipment installation wiring."
+  },
+  {
+    "id": "R5-35",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 35",
+    "pool": "review",
+    "prompt": "Which is the simplest overload device identified in the review?",
+    "choices": [
+      "Fuse",
+      "Thermostat",
+      "Run capacitor",
+      "Signal light"
+    ],
+    "answer": 0,
+    "explanation": "A fuse uses a simple conductive link to interrupt excessive current."
+  },
+  {
+    "id": "R5-36",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 36",
+    "pool": "review",
+    "prompt": "A device combines contactor action with motor overload protection. What is it?",
+    "choices": [
+      "Magnetic starter",
+      "Resistance heater",
+      "Solenoid valve",
+      "Transformer"
+    ],
+    "answer": 0,
+    "explanation": "The protection function distinguishes a starter from a plain contactor."
+  },
+  {
+    "id": "R5-37",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 37",
+    "pool": "review",
+    "prompt": "What electrical device opens and closes a circuit to control a load?",
+    "choices": [
+      "Switch",
+      "Capacitor",
+      "Motor bearing",
+      "Conductor insulation"
+    ],
+    "answer": 0,
+    "explanation": "A switch changes circuit continuity."
+  },
+  {
+    "id": "R5-38",
+    "chapter": 5,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 5, question 38",
+    "pool": "review",
+    "prompt": "A pump needs an electrical device to turn its shaft. Which device supplies that output?",
+    "choices": [
+      "Motor",
+      "Fuse",
+      "Transformer by itself",
+      "Signal light"
+    ],
+    "answer": 0,
+    "explanation": "A motor converts electrical energy into mechanical rotation."
+  },
+  {
+    "id": "R8-01",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 1",
+    "pool": "review",
+    "prompt": "Which motor type is described in the chapter as rugged and reliable for larger equipment?",
+    "choices": [
+      "Three-phase",
+      "Open-phase",
+      "Parallel-pole",
+      "Continual-rotation"
+    ],
+    "answer": 0,
+    "explanation": "The chapter describes three-phase motors as robust motors with good starting and running characteristics."
+  },
+  {
+    "id": "R8-02",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 2",
+    "pool": "review",
+    "prompt": "In the chapter's example, the mini-split is described as what compared with conventional residential equipment?",
+    "choices": [
+      "Smaller and more compact",
+      "A motor with no windings",
+      "A system requiring brushes inside the compressor",
+      "A device that uses no electricity"
+    ],
+    "answer": 0,
+    "explanation": "This is the source example's size comparison, not a universal claim about all equipment capacities."
+  },
+  {
+    "id": "R8-03",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 3",
+    "pool": "review",
+    "prompt": "Which of these is one of the motor types covered in the chapter?",
+    "choices": [
+      "Shaded-pole motor",
+      "Thermal fuse",
+      "Signal light",
+      "Disconnect switch"
+    ],
+    "answer": 0,
+    "explanation": "Shaded-pole is one of the covered motor families."
+  },
+  {
+    "id": "R8-04",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 4",
+    "pool": "review",
+    "prompt": "Which single-phase design adds a starting capacitor for high starting torque?",
+    "choices": [
+      "Capacitor-start motor",
+      "Shaded-pole motor",
+      "Plain resistance-start motor",
+      "PSC motor with only a run capacitor"
+    ],
+    "answer": 0,
+    "explanation": "The original wording also allowed three-phase; specifying the start capacitor makes the answer unambiguous."
+  },
+  {
+    "id": "R8-05",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 5",
+    "pool": "review",
+    "prompt": "Which definition describes motor torque?",
+    "choices": [
+      "Turning strength",
+      "Number of supply wires",
+      "Refrigerant charge",
+      "Maximum voltage only"
+    ],
+    "answer": 0,
+    "explanation": "Torque is the turning action produced by the motor."
+  },
+  {
+    "id": "R8-06",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 6",
+    "pool": "review",
+    "prompt": "A shaded-pole motor is a common choice for which low-torque load?",
+    "choices": [
+      "Small propeller fan",
+      "Large reciprocating compressor requiring high start torque",
+      "Heavy loaded pump requiring high start torque",
+      "Electric resistance heater"
+    ],
+    "answer": 0,
+    "explanation": "Shaded-pole motors suit small low-torque fan loads."
+  },
+  {
+    "id": "R8-07",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 7",
+    "pool": "review",
+    "prompt": "What two poles does a magnet have?",
+    "choices": [
+      "North and south",
+      "Start and run",
+      "Line and neutral",
+      "Hot and cold"
+    ],
+    "answer": 0,
+    "explanation": "Magnets have north and south poles."
+  },
+  {
+    "id": "R8-08",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 8",
+    "pool": "review",
+    "prompt": "At 60 Hz, what typical loaded speed does this chapter list for a four-pole induction motor?",
+    "choices": [
+      "About 1750 rpm",
+      "About 750 rpm",
+      "Exactly 1800 rpm under every load",
+      "About 2500 rpm"
+    ],
+    "answer": 0,
+    "explanation": "The synchronous speed is 1800 rpm; the example loaded rotor speed is about 1750 rpm."
+  },
+  {
+    "id": "R8-09",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 9",
+    "pool": "review",
+    "prompt": "What determines the starting direction of a shaded-pole motor?",
+    "choices": [
+      "Location of the shaded pole sections",
+      "The heater letter",
+      "The fuse color",
+      "The capacitor label alone"
+    ],
+    "answer": 0,
+    "explanation": "Rotation starts from the unshaded toward the shaded part of each pole."
+  },
+  {
+    "id": "R8-10",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 10",
+    "pool": "review",
+    "prompt": "Which rotor is widely used in the chapter's induction motors?",
+    "choices": [
+      "Squirrel-cage rotor",
+      "Egg-crate rotor",
+      "Mouse-cage rotor",
+      "Squirrel-block rotor"
+    ],
+    "answer": 0,
+    "explanation": "Conductive bars connected by end rings form the squirrel cage."
+  },
+  {
+    "id": "R8-11",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 11",
+    "pool": "review",
+    "prompt": "What is the unit of capacitance used on motor capacitors?",
+    "choices": [
+      "Microfarad",
+      "Horsepower",
+      "Ampere-hour",
+      "Revolutions per minute"
+    ],
+    "answer": 0,
+    "explanation": "Motor capacitors are rated in microfarads."
+  },
+  {
+    "id": "R8-12",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 12",
+    "pool": "review",
+    "prompt": "Starting methods and starting torque help classify what devices into types?",
+    "choices": [
+      "Motors",
+      "Magnetic poles only",
+      "Insulation sleeves",
+      "Fuse holders"
+    ],
+    "answer": 0,
+    "explanation": "Motor selection considers how the motor starts and the torque needed by the load."
+  },
+  {
+    "id": "R8-13",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 13",
+    "pool": "review",
+    "prompt": "What professional attribute does the service protocol emphasize for a customer's first impression?",
+    "choices": [
+      "Clean and neat appearance",
+      "Driving speed",
+      "Tool price alone",
+      "Fast speech alone"
+    ],
+    "answer": 0,
+    "explanation": "The chapter emphasizes a neat appearance and courteous behavior."
+  },
+  {
+    "id": "R8-14",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 14",
+    "pool": "review",
+    "prompt": "Eliminating brushes and a mechanical commutator removes what source of sparking?",
+    "choices": [
+      "Brush-to-commutator contact",
+      "Every possible electrical fault",
+      "All need for windings",
+      "All need for maintenance"
+    ],
+    "answer": 0,
+    "explanation": "Brushless construction eliminates that specific mechanical contact and its sparking."
+  },
+  {
+    "id": "R8-15",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 15",
+    "pool": "review",
+    "prompt": "Which low-to-moderate-starting-torque family uses start and run windings with phase displacement?",
+    "choices": [
+      "Resistance-start split-phase",
+      "Three-phase only",
+      "Series heater",
+      "A motor with no stator"
+    ],
+    "answer": 0,
+    "explanation": "The chapter describes basic split-phase motors as simple and inexpensive with limited starting torque."
+  },
+  {
+    "id": "R8-16",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 16",
+    "pool": "review",
+    "prompt": "A motor capacitor label says 40 uF. What does uF identify?",
+    "choices": [
+      "Microfarads",
+      "Microjoules",
+      "Motor frequency",
+      "Frame size"
+    ],
+    "answer": 0,
+    "explanation": "uF is a common plain-text abbreviation for microfarads."
+  },
+  {
+    "id": "R8-17",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 17",
+    "pool": "review",
+    "prompt": "What kind of magnetic field is central to continuous rotation in the chapter's basic motor explanation?",
+    "choices": [
+      "Rotating magnetic field",
+      "A field that never changes direction",
+      "A magnetic field with no rotor interaction",
+      "A field produced only by paper insulation"
+    ],
+    "answer": 0,
+    "explanation": "A rotating field interacts with the rotor to create continued rotation."
+  },
+  {
+    "id": "R8-18",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 18",
+    "pool": "review",
+    "prompt": "What term names magnetic lines of force?",
+    "choices": [
+      "Flux",
+      "Throw",
+      "Torque",
+      "Resistance"
+    ],
+    "answer": 0,
+    "explanation": "Magnetic field lines are described as flux."
+  },
+  {
+    "id": "R8-19",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 19",
+    "pool": "review",
+    "prompt": "On a service visit, which behavior supports a professional appearance?",
+    "choices": [
+      "Arrive neat and protect the customer's property",
+      "Place dirty tools on furniture",
+      "Ignore the customer's complaint",
+      "Track mud into the home"
+    ],
+    "answer": 0,
+    "explanation": "Professional conduct includes appearance and care for property."
+  },
+  {
+    "id": "R8-20",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 20",
+    "pool": "review",
+    "prompt": "Which motor family uses a run capacitor continuously and offers good running efficiency?",
+    "choices": [
+      "PSC",
+      "PCS as a separate motor type",
+      "Shaded-pole without capacitors",
+      "Resistance-start without a capacitor"
+    ],
+    "answer": 0,
+    "explanation": "PSC means permanent split-capacitor; PCS in the supplied key is a typo."
+  },
+  {
+    "id": "R8-21",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 21",
+    "pool": "review",
+    "prompt": "Complete the name of the high-starting-torque motor with a temporary start capacitor: capacitor _____.",
+    "choices": [
+      "Start",
+      "Stop",
+      "Heater",
+      "Ground"
+    ],
+    "answer": 0,
+    "explanation": "The capacitor-start motor uses the capacitor during acceleration."
+  },
+  {
+    "id": "R8-22",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 22",
+    "pool": "review",
+    "prompt": "Which organization is identified as standardizing motor frame dimensions?",
+    "choices": [
+      "NEMA",
+      "A TEV",
+      "A signal-light manufacturer only",
+      "A compressor relay"
+    ],
+    "answer": 0,
+    "explanation": "The chapter identifies the National Electrical Manufacturers Association."
+  },
+  {
+    "id": "R8-23",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 23",
+    "pool": "review",
+    "prompt": "Which magnetic poles repel each other?",
+    "choices": [
+      "Like poles",
+      "Unlike poles",
+      "Only a north and south pair",
+      "No poles"
+    ],
+    "answer": 0,
+    "explanation": "North repels north, and south repels south."
+  },
+  {
+    "id": "R8-24",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 24",
+    "pool": "review",
+    "prompt": "What word identifies the strength of a motor's turning action during starting or running?",
+    "choices": [
+      "Torque",
+      "Flux density alone",
+      "Capacitance",
+      "Supply frequency alone"
+    ],
+    "answer": 0,
+    "explanation": "Torque refers to turning strength rather than speed."
+  },
+  {
+    "id": "R8-25",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 25",
+    "pool": "review",
+    "prompt": "Which motor part stays stationary?",
+    "choices": [
+      "Stator",
+      "Rotor",
+      "Shaft",
+      "Fan blade"
+    ],
+    "answer": 0,
+    "explanation": "The stator surrounds the rotating assembly and remains stationary."
+  },
+  {
+    "id": "R8-26",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 26",
+    "pool": "review",
+    "prompt": "A large HVAC application uses a supply with three phase-displaced currents. Which motor family fits?",
+    "choices": [
+      "Three-phase",
+      "Shaded-pole only",
+      "Resistance-start only",
+      "PSC only"
+    ],
+    "answer": 0,
+    "explanation": "Three supply phases produce the rotating field without single-phase starting apparatus."
+  },
+  {
+    "id": "R8-27",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 27",
+    "pool": "review",
+    "prompt": "Why is a conventional shaded-pole motor difficult to reverse?",
+    "choices": [
+      "Its physical shaded-pole arrangement usually must be changed through disassembly",
+      "Its supply wires cannot carry current",
+      "It has no rotor",
+      "Its capacitor is always open"
+    ],
+    "answer": 0,
+    "explanation": "Starting direction depends on physical shading position."
+  },
+  {
+    "id": "R8-28",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 28",
+    "pool": "review",
+    "prompt": "Which capacitor is designed to stay in a motor circuit for the whole running cycle?",
+    "choices": [
+      "Run capacitor",
+      "Start capacitor",
+      "A fuse",
+      "A centrifugal switch"
+    ],
+    "answer": 0,
+    "explanation": "Run capacitors are designed for continuous duty."
+  },
+  {
+    "id": "R8-29",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 29",
+    "pool": "review",
+    "prompt": "Which is a key responsibility when working with a customer?",
+    "choices": [
+      "Courteous and fair treatment",
+      "Replacing good parts to increase the bill",
+      "Avoiding explanations",
+      "Ignoring customer concerns"
+    ],
+    "answer": 0,
+    "explanation": "The service protocol emphasizes courtesy, accurate explanations, and ethical decisions."
+  },
+  {
+    "id": "R8-30",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 30",
+    "pool": "review",
+    "prompt": "A wye winding is also called what?",
+    "choices": [
+      "Star winding",
+      "Shaded winding",
+      "Series lamp",
+      "Capacitor plate"
+    ],
+    "answer": 0,
+    "explanation": "Wye and star refer to the same basic three-phase winding arrangement."
+  },
+  {
+    "id": "R8-31",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 31",
+    "pool": "review",
+    "prompt": "Which component has conducting plates separated by an insulating dielectric?",
+    "choices": [
+      "Capacitor",
+      "Rotor shaft",
+      "Fuse link",
+      "Disconnect handle"
+    ],
+    "answer": 0,
+    "explanation": "A capacitor stores charge with conductive plates and an insulating dielectric."
+  },
+  {
+    "id": "R8-32",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 32",
+    "pool": "review",
+    "prompt": "Which motor is suitable when very small starting and running torques are required?",
+    "choices": [
+      "Shaded-pole",
+      "High-torque CSR compressor motor only",
+      "Large three-phase drive only",
+      "A resistance heater"
+    ],
+    "answer": 0,
+    "explanation": "The chapter assigns shaded-pole motors to low-torque applications."
+  },
+  {
+    "id": "R8-33",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 33",
+    "pool": "review",
+    "prompt": "What physical phenomenon explains attraction between a magnet and iron?",
+    "choices": [
+      "Magnetism",
+      "Levitation alone",
+      "Refrigerant evaporation",
+      "Wire color"
+    ],
+    "answer": 0,
+    "explanation": "Magnetism produces the force discussed in the chapter."
+  },
+  {
+    "id": "R8-34",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 34",
+    "pool": "review",
+    "prompt": "What is the region in which magnetic force acts called?",
+    "choices": [
+      "Magnetic field",
+      "Working voltage",
+      "Iron circuit label",
+      "Torque rating"
+    ],
+    "answer": 0,
+    "explanation": "The magnetic field is the region of magnetic influence."
+  },
+  {
+    "id": "R8-35",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 35",
+    "pool": "review",
+    "prompt": "An iron object experiences force near a magnet. Which region is it in?",
+    "choices": [
+      "The magnetic field",
+      "A capacitor voltage rating",
+      "A motor frame code",
+      "A thermostat throw"
+    ],
+    "answer": 0,
+    "explanation": "The question applies the magnetic-field definition."
+  },
+  {
+    "id": "R8-36",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 36",
+    "pool": "review",
+    "prompt": "What is a magnet created using electrical current called?",
+    "choices": [
+      "Electromagnet",
+      "Heat magnet",
+      "Circuit diagram",
+      "Paper magnet"
+    ],
+    "answer": 0,
+    "explanation": "A current-carrying coil can magnetize its core."
+  },
+  {
+    "id": "R8-37",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 37",
+    "pool": "review",
+    "prompt": "Which chapter material provides a good magnetic path?",
+    "choices": [
+      "Soft iron",
+      "Glass",
+      "Paper",
+      "Wood"
+    ],
+    "answer": 0,
+    "explanation": "Soft iron conducts magnetic flux well in the described devices."
+  },
+  {
+    "id": "R8-38",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 38",
+    "pool": "review",
+    "prompt": "What is magnetism induced in an iron object placed in a magnetic field called?",
+    "choices": [
+      "Induced magnetism",
+      "Capacitance",
+      "Mechanical torque rating",
+      "Electrical throw"
+    ],
+    "answer": 0,
+    "explanation": "The original choices omitted the correct concept. The chapter names it induced magnetism."
+  },
+  {
+    "id": "R8-39",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 39",
+    "pool": "review",
+    "prompt": "Which enclosure category describes a motor whose starting apparatus is commonly within the motor rather than outside a sealed compressor shell?",
+    "choices": [
+      "Open motor",
+      "Hermetic motor",
+      "Liquid-line motor",
+      "Capacitor-only motor"
+    ],
+    "answer": 0,
+    "explanation": "The chapter contrasts open motors with hermetically enclosed compressor motors."
+  },
+  {
+    "id": "R8-40",
+    "chapter": 8,
+    "level": "Basic",
+    "source": "IDA201 CASINO NIGHT supplied review, Chapter 8, question 40",
+    "pool": "review",
+    "prompt": "Which electrical devices create rotation to drive components needing to turn?",
+    "choices": [
+      "Motors",
+      "Fuses",
+      "Insulation sleeves",
+      "Switch handles"
+    ],
+    "answer": 0,
+    "explanation": "Motors drive rotating loads such as compressors, pumps, and fans."
+  },
+  {
+    "id": "X5-01",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A thermostat closes a 24 V circuit to energize a contactor coil. Which item is the control-circuit load?",
+    "choices": [
+      "Contactor coil",
+      "Thermostat contact alone",
+      "Legend text",
+      "Wire color"
+    ],
+    "answer": 0,
+    "explanation": "The coil consumes energy for useful magnetic work; the switch controls its path."
+  },
+  {
+    "id": "X5-02",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A contactor closes to run a compressor motor. Which component is the major power-circuit load?",
+    "choices": [
+      "Compressor motor",
+      "Control thermostat contact alone",
+      "Panel legend",
+      "Disconnect label"
+    ],
+    "answer": 0,
+    "explanation": "The motor produces mechanical output and consumes the load power."
+  },
+  {
+    "id": "X5-03",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A drawing uses M for a motor and C for a contactor. Where should an unfamiliar label be verified?",
+    "choices": [
+      "Manufacturer's legend",
+      "Only its letter shape",
+      "Only the room temperature",
+      "Only the wire insulation color"
+    ],
+    "answer": 0,
+    "explanation": "Letter designations depend on the drawing; verify them with the legend."
+  },
+  {
+    "id": "X5-04",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "In a basic ladder circuit, why is the thermostat placed in the path feeding the coil?",
+    "choices": [
+      "To permit or interrupt current to the coil",
+      "To permanently store current",
+      "To change the motor pole count",
+      "To replace the transformer winding"
+    ],
+    "answer": 0,
+    "explanation": "The thermostat controls whether the coil's current path is complete."
+  },
+  {
+    "id": "X5-05",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A stop switch has normally closed contacts. When pressed to stop the load, what should it do?",
+    "choices": [
+      "Open the control circuit",
+      "Close a second supply phase",
+      "Increase motor torque",
+      "Short the transformer"
+    ],
+    "answer": 0,
+    "explanation": "Opening the control path de-energizes the switching coil."
+  },
+  {
+    "id": "X5-06",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A fan motor needs protection against sustained overload. Which feature makes a starter useful?",
+    "choices": [
+      "Overload protection in addition to switching",
+      "A brighter indicator light only",
+      "A larger diagram font",
+      "A thermostat scale only"
+    ],
+    "answer": 0,
+    "explanation": "The starter provides protection that a plain contactor does not include."
+  },
+  {
+    "id": "X5-07",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "Which pair consists of electrical loads rather than just control contacts?",
+    "choices": [
+      "Motor and resistance heater",
+      "Thermostat contact and disconnect contact",
+      "Two legend entries",
+      "Two open switch blades"
+    ],
+    "answer": 0,
+    "explanation": "Motors and heaters consume power for useful output."
+  },
+  {
+    "id": "X5-08",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A control coil has the correct rated supply available and a complete circuit. What useful action should its solenoid produce?",
+    "choices": [
+      "Magnetic actuation of its contacts",
+      "Refrigerant condensation",
+      "Capacitor oil cooling",
+      "A change in wire gauge"
+    ],
+    "answer": 0,
+    "explanation": "The coil's magnetic field operates the switching mechanism."
+  },
+  {
+    "id": "X5-09",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A schematic explains the failed start sequence, but the panel has several identical relays. What identifies the correct physical relay?",
+    "choices": [
+      "The pictorial location together with matching designations",
+      "Only the largest relay case",
+      "Only the newest wire",
+      "Only the first device touched"
+    ],
+    "answer": 0,
+    "explanation": "Match the schematic designation to the pictorial layout and physical identification."
+  },
+  {
+    "id": "X5-10",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A protective device opens a contactor's coil path on an overload. What is the intended motor result?",
+    "choices": [
+      "Contactor drops out and stops motor power",
+      "Motor receives more voltage",
+      "Motor changes to a PSC design",
+      "Motor speed increases"
+    ],
+    "answer": 0,
+    "explanation": "Pilot-duty protection stops the motor through the contactor control circuit."
+  },
+  {
+    "id": "X5-11",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A cooling thermostat is open after room temperature falls below its setting. Is that compatible with basic cooling control?",
+    "choices": [
+      "Yes, cooling contacts open on a temperature fall",
+      "No, all cooling contacts close on a fall",
+      "No, thermostats must always be closed",
+      "Only if the motor has three poles"
+    ],
+    "answer": 0,
+    "explanation": "The chapter cooling thermostat opens as temperature falls."
+  },
+  {
+    "id": "X5-12",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A lamp stays on after a relay with an NC lamp contact loses coil power. What is the normal explanation?",
+    "choices": [
+      "The NC contact returned to its closed state",
+      "The relay now has no contacts",
+      "The lamp became a transformer",
+      "The motor doubled its poles"
+    ],
+    "answer": 0,
+    "explanation": "The de-energized NC contact allows a complete lamp path if the supply is present."
+  },
+  {
+    "id": "X5-13",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "Which sequence describes a normal magnetic start command?",
+    "choices": [
+      "Control switch closes, coil energizes, power contacts close, motor runs",
+      "Motor runs, legend closes, fuse stores charge",
+      "Capacitor opens, motor frame melts, switch closes",
+      "Thermostat removes every supply conductor"
+    ],
+    "answer": 0,
+    "explanation": "The control circuit actuates the power switching device before the motor receives power."
+  },
+  {
+    "id": "X5-14",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "Why is a motor's protective equipment ground different from a grounded winding fault?",
+    "choices": [
+      "The ground is an intentional protective path; the fault is unwanted winding-to-frame contact",
+      "Both are always healthy winding connections",
+      "The protective ground is a start winding",
+      "The winding fault is a normal speed tap"
+    ],
+    "answer": 0,
+    "explanation": "An intended grounding conductor and failed winding insulation have different functions."
+  },
+  {
+    "id": "X5-15",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "A transformer is healthy, but a series safety contact is open before the coil. Why does the coil remain off?",
+    "choices": [
+      "Its control-current path is incomplete",
+      "The transformer has become a resistor automatically",
+      "The rotor has no poles",
+      "The signal light is the wrong color"
+    ],
+    "answer": 0,
+    "explanation": "A good supply alone does not guarantee continuity through all control devices."
+  },
+  {
+    "id": "X5-16",
+    "chapter": 5,
+    "level": "Applied",
+    "source": "Chapter 5, 5.1 to 5.7; additional practice",
+    "pool": "extra",
+    "prompt": "Which device-function match is correct?",
+    "choices": [
+      "Solenoid produces magnetic action; heater produces heat",
+      "Motor stores refrigerant; fuse produces rotation",
+      "Disconnect regulates superheat; capacitor indicates lamp color",
+      "Transformer selects motor bearings; relay stores air"
+    ],
+    "answer": 0,
+    "explanation": "Useful output identifies the role of each electrical load."
+  },
+  {
+    "id": "X8-01",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A cutaway motor shows a stationary wound outer assembly and an inner rotating cage. Which part is the stator?",
+    "choices": [
+      "The stationary wound outer assembly",
+      "The rotating cage",
+      "The shaft end alone",
+      "The end ring alone"
+    ],
+    "answer": 0,
+    "explanation": "The stator is stationary; the rotor is the inner rotating assembly."
+  },
+  {
+    "id": "X8-02",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "What makes a squirrel-cage rotor a cage construction?",
+    "choices": [
+      "Conductive bars joined at both ends by end rings",
+      "Two capacitor plates with oil",
+      "A thermostat and a heater",
+      "Brushes rubbing a commutator"
+    ],
+    "answer": 0,
+    "explanation": "The bars and end rings form a closed conductive cage."
+  },
+  {
+    "id": "X8-03",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A motor contains one main winding and copper shading bands but no external capacitor. Which type does this suggest?",
+    "choices": [
+      "Shaded-pole",
+      "PSC",
+      "CSR",
+      "Three-phase ECM module"
+    ],
+    "answer": 0,
+    "explanation": "The shading bands identify the shaded-pole starting method."
+  },
+  {
+    "id": "X8-04",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A motor has separate start/run windings and a centrifugal switch but no capacitor. Which design fits?",
+    "choices": [
+      "Resistance-start split-phase",
+      "PSC",
+      "CSR",
+      "Brushless electronic motor"
+    ],
+    "answer": 0,
+    "explanation": "The resistance-start arrangement creates phase displacement through its winding design."
+  },
+  {
+    "id": "X8-05",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "An open motor has a start capacitor and a centrifugal switch that removes its starting branch. Which type fits?",
+    "choices": [
+      "Capacitor-start induction-run",
+      "PSC",
+      "Shaded-pole",
+      "Three-phase without start apparatus"
+    ],
+    "answer": 0,
+    "explanation": "The start capacitor is used during acceleration, then removed."
+  },
+  {
+    "id": "X8-06",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A fan motor has two windings and one capacitor that remains energized during running. Which type fits?",
+    "choices": [
+      "PSC",
+      "Resistance-start only",
+      "Shaded-pole",
+      "Three-phase induction with no capacitor"
+    ],
+    "answer": 0,
+    "explanation": "The permanent run capacitor identifies a PSC motor."
+  },
+  {
+    "id": "X8-07",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A compressor motor uses separate start and run capacitors with a starting relay. Which family fits?",
+    "choices": [
+      "CSR",
+      "Shaded-pole",
+      "Plain resistance-start",
+      "A heater starter"
+    ],
+    "answer": 0,
+    "explanation": "CSR combines a temporary starting capacitor with a continuously used run capacitor."
+  },
+  {
+    "id": "X8-08",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A motor has three equal phase windings supplied by three-phase power. Which starting component is normally unnecessary?",
+    "choices": [
+      "A single-phase start capacitor",
+      "The stator",
+      "The rotor",
+      "The equipment grounding conductor"
+    ],
+    "answer": 0,
+    "explanation": "The supply already produces the phase displacement needed to start."
+  },
+  {
+    "id": "X8-09",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A blower has a permanent-magnet rotor and an attached electronic module. Which family is a likely match?",
+    "choices": [
+      "ECM",
+      "Shaded-pole",
+      "Plain resistance-start",
+      "Motor-free heater"
+    ],
+    "answer": 0,
+    "explanation": "An ECM combines permanent magnets with electronic commutation and control."
+  },
+  {
+    "id": "X8-10",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "What physically supports a motor shaft while allowing rotation?",
+    "choices": [
+      "Bearings",
+      "Capacitor plates",
+      "Fuse metal",
+      "Thermostat contacts"
+    ],
+    "answer": 0,
+    "explanation": "Bearings support and locate the rotating shaft."
+  },
+  {
+    "id": "X8-11",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Which external component should be checked when a PSC blower has starting trouble?",
+    "choices": [
+      "Its specified run capacitor",
+      "A nonexistent PSC centrifugal switch",
+      "A TEV bulb only",
+      "A wye jumper on every PSC motor"
+    ],
+    "answer": 0,
+    "explanation": "PSC starting and running behavior depends on its continuously connected run capacitor."
+  },
+  {
+    "id": "X8-12",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Which parts deserve attention if an open capacitor-start motor overheats because the start branch stays connected?",
+    "choices": [
+      "Centrifugal switch and start branch components",
+      "Only the signal-light lens",
+      "Only the transformer color",
+      "Only the condenser fins"
+    ],
+    "answer": 0,
+    "explanation": "A faulty switch can leave the start capacitor and winding energized too long."
+  },
+  {
+    "id": "X8-13",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A hermetic CSR compressor has no internal centrifugal switch. What controls removal of its start capacitor?",
+    "choices": [
+      "An external starting relay",
+      "A shaded-pole copper band",
+      "A panel lamp",
+      "An evaporator fan blade"
+    ],
+    "answer": 0,
+    "explanation": "Hermetic compressor starting apparatus is mounted outside the sealed shell."
+  },
+  {
+    "id": "X8-14",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A constant-torque blower uses low-voltage taps labeled 1 through 5. What do these taps represent?",
+    "choices": [
+      "Programmed torque levels",
+      "Five line-voltage phases",
+      "Five winding grounds",
+      "Five refrigerant choices"
+    ],
+    "answer": 0,
+    "explanation": "The controller associates each input tap with a programmed torque level."
+  },
+  {
+    "id": "X8-15",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "How does an electronically commutated motor control its magnetic fields?",
+    "choices": [
+      "An electronic controller sequentially energizes the windings",
+      "Copper shading bands are manually moved each cycle",
+      "A thermal fuse rotates the rotor",
+      "A lamp changes the pole material"
+    ],
+    "answer": 0,
+    "explanation": "Electronic commutation replaces mechanical switching of winding currents."
+  },
+  {
+    "id": "X8-16",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Why does a small propeller fan often need less starting torque than a loaded compressor?",
+    "choices": [
+      "The mechanical loads have different starting demands",
+      "All fan motors have no bearings",
+      "Every compressor has no rotor",
+      "Fan motors do not use electricity"
+    ],
+    "answer": 0,
+    "explanation": "Motor selection matches the load's starting and running requirements."
+  },
+  {
+    "id": "X8-17",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A motor nameplate lists voltage, frequency, and frame. Why should all three be checked before replacement?",
+    "choices": [
+      "Electrical supply and physical fit must both match the application",
+      "Frame alone determines all wiring",
+      "Voltage alone guarantees shaft fit",
+      "Frequency is only a lamp color"
+    ],
+    "answer": 0,
+    "explanation": "A suitable replacement needs compatible electrical and mechanical specifications."
+  },
+  {
+    "id": "X8-18",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A motor looks physically identical to another but needs a different capacitor value. What is the best choice?",
+    "choices": [
+      "Use the specified capacitor value for that motor",
+      "Choose the value by case shape alone",
+      "Always use twice the specified capacitance",
+      "Use the lowest available voltage rating"
+    ],
+    "answer": 0,
+    "explanation": "Use motor manufacturer specifications; appearance does not determine the capacitor rating."
+  },
+  {
+    "id": "X8-19",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A brushless DC compressor is controlled by an inverter. What mainly enables variable speed?",
+    "choices": [
+      "Electronic control of the motor's energization",
+      "A changing capacitor case color",
+      "A manually rotated shading band",
+      "A fixed lamp resistance"
+    ],
+    "answer": 0,
+    "explanation": "The inverter and control module regulate the motor drive to match demand."
+  },
+  {
+    "id": "X8-20",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Why does a constant-airflow ECM sometimes change speed when system restriction changes?",
+    "choices": [
+      "Its control adjusts operation to meet the airflow target within its operating limits",
+      "It changes the refrigerant chemical formula",
+      "It loses all supply voltage",
+      "It removes the rotor magnets"
+    ],
+    "answer": 0,
+    "explanation": "Electronic control can compensate within the motor and system's available operating range."
+  },
+  {
+    "id": "X8-21",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Which feature directly distinguishes an ECM rotor from a typical squirrel-cage induction rotor?",
+    "choices": [
+      "Permanent magnets rather than a conductive induction cage",
+      "No shaft in the ECM",
+      "No stator in the induction motor",
+      "Oil-filled capacitor plates on both rotors"
+    ],
+    "answer": 0,
+    "explanation": "The rotor constructions produce their magnetic fields differently."
+  },
+  {
+    "id": "X8-22",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A motor shaft is hard to turn with power safely isolated. What type of issue should be considered?",
+    "choices": [
+      "Mechanical drag or bearing trouble",
+      "A correct legend proving normal rotation",
+      "A normal voltage rating proving free motion",
+      "A lamp color change"
+    ],
+    "answer": 0,
+    "explanation": "Mechanical resistance can cause starting difficulty even if windings are intact."
+  },
+  {
+    "id": "X8-23",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Why should the term start winding not imply it always turns off in every motor?",
+    "choices": [
+      "PSC and CSR auxiliary windings remain energized during running",
+      "Every motor turns off its stator at full speed",
+      "Three-phase motors use no windings",
+      "All shaded-pole motors have a centrifugal switch"
+    ],
+    "answer": 0,
+    "explanation": "Motor construction determines which windings and capacitors stay in the circuit."
+  },
+  {
+    "id": "X8-24",
+    "chapter": 8,
+    "level": "Applied",
+    "source": "Chapter 8, 8.2 to 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A motor replacement must fit existing mounting holes and shaft geometry. Which chapter reference helps?",
+    "choices": [
+      "NEMA frame dimensions and manufacturer drawings",
+      "Only evaporator pressure",
+      "Only lamp colors",
+      "Only thermostat setpoint"
+    ],
+    "answer": 0,
+    "explanation": "Standard frame dimensions support mechanical replacement matching."
+  },
+  {
+    "id": "X8-25",
+    "chapter": 8,
+    "level": "Advanced",
+    "source": "Chapter 8, 8.3 and 8.5 and 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Using Ns = 120f / P at 60 Hz, which pair correctly compares two-pole and four-pole synchronous speeds?",
+    "choices": [
+      "3600 rpm and 1800 rpm",
+      "1800 rpm and 3600 rpm",
+      "1750 rpm and 900 rpm",
+      "60 rpm and 120 rpm"
+    ],
+    "answer": 0,
+    "explanation": "7200 divided by 2 gives 3600; divided by 4 gives 1800. These are synchronous field speeds."
+  },
+  {
+    "id": "X8-26",
+    "chapter": 8,
+    "level": "Advanced",
+    "source": "Chapter 8, 8.3 and 8.5 and 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A four-pole 60 Hz motor has a synchronous speed of 1800 rpm and a stated loaded speed of 1750 rpm. What is the speed difference?",
+    "choices": [
+      "50 rpm",
+      "350 rpm",
+      "1750 rpm",
+      "3550 rpm"
+    ],
+    "answer": 0,
+    "explanation": "Subtract loaded speed from synchronous speed: 1800 minus 1750 = 50 rpm."
+  },
+  {
+    "id": "X8-27",
+    "chapter": 8,
+    "level": "Advanced",
+    "source": "Chapter 8, 8.3 and 8.5 and 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A 10 uF capacitor and a 20 uF capacitor are in parallel. Which expression gives the total?",
+    "choices": [
+      "10 + 20 = 30 uF",
+      "10 × 20 = 200 uF",
+      "20 - 10 = 10 uF",
+      "10 / 20 = 0.5 uF"
+    ],
+    "answer": 0,
+    "explanation": "Parallel capacitances add directly."
+  },
+  {
+    "id": "X8-28",
+    "chapter": 8,
+    "level": "Advanced",
+    "source": "Chapter 8, 8.3 and 8.5 and 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Two 40 uF capacitors are in series. Which expression gives the total?",
+    "choices": [
+      "40 × 40 / (40 + 40) = 20 uF",
+      "40 + 40 = 80 uF",
+      "40 × 40 = 1600 uF",
+      "40 - 40 = 0 uF"
+    ],
+    "answer": 0,
+    "explanation": "Use the product divided by the sum for two series capacitors."
+  },
+  {
+    "id": "X8-29",
+    "chapter": 8,
+    "level": "Advanced",
+    "source": "Chapter 8, 8.3 and 8.5 and 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A healthy isolated compressor has C-R = 3 ohms and C-S = 9 ohms. Which relationship should be true?",
+    "choices": [
+      "R-S = 3 + 9 = 12 ohms",
+      "R-S = 9 - 3 = 6 ohms",
+      "R-S = 3 × 9 = 27 ohms",
+      "R-S must be infinite"
+    ],
+    "answer": 0,
+    "explanation": "Start-to-run measures the two winding resistances in series."
+  },
+  {
+    "id": "X8-30",
+    "chapter": 8,
+    "level": "Advanced",
+    "source": "Chapter 8, 8.3 and 8.5 and 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Using the chapter's guide, a 40 uF run capacitor allows a 10% variation. How large is 10% of 40?",
+    "choices": [
+      "4 uF",
+      "0.4 uF",
+      "10 uF",
+      "40 uF"
+    ],
+    "answer": 0,
+    "explanation": "Ten percent means divide by ten: 40 / 10 = 4 uF; the guide range is 36 to 44 uF."
+  },
+  {
+    "id": "X8-31",
+    "chapter": 8,
+    "level": "Advanced",
+    "source": "Chapter 8, 8.3 and 8.5 and 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "Using the chapter's guide, a 100 uF start capacitor may be increased by at most 20%. How much is that increase?",
+    "choices": [
+      "20 uF",
+      "2 uF",
+      "50 uF",
+      "100 uF"
+    ],
+    "answer": 0,
+    "explanation": "Twenty percent of 100 is 20; the upper guide limit is 120 uF, with an equal-or-higher voltage rating."
+  },
+  {
+    "id": "X8-32",
+    "chapter": 8,
+    "level": "Advanced",
+    "source": "Chapter 8, 8.3 and 8.5 and 8.12; additional practice",
+    "pool": "extra",
+    "prompt": "A circuit drawing places a start relay and a start capacitor in a temporary parallel branch alongside a run capacitor. What motor family is consistent with this arrangement?",
+    "choices": [
+      "CSR",
+      "Shaded-pole",
+      "Resistance-start with no capacitor",
+      "Three-phase with no starting apparatus"
+    ],
+    "answer": 0,
+    "explanation": "The temporary start capacitor is added to the permanently used run capacitor during startup."
+  }
+]
