@@ -80,3 +80,16 @@ Question keys are public repository files. This game is designed for classroom p
 Edit questions.json and run `node tools/sync-bank.cjs` to regenerate bank.js. Keep IDs unique and provide four unique answer choices, a valid key, explanation, source, chapter, level, and pool. Run `node tests/engine.test.cjs` for game-rule tests.
 
 The browser rehearsal covers a teacher and 24 student seats, common question/answer order, chosen wagers, accepted answer locks, a full 30-second round, timeout loss, payout, rescue, CSV export, and responsive pages. Engine tests also cover the configured 40-seat limit. Separate-device school-network rehearsal remains required.
+
+## Connection recovery and browser guidance
+
+Use an updated Chrome or Microsoft Edge browser for a consistent classroom setup. PeerJS also supports other WebRTC-capable browsers; choosing a supported browser does not override school network filtering. See https://peerjs.com/client/api/util and https://peerjs.com/client/faq.
+
+Students now start connecting only after pressing Take my seat. A failed or destroyed connection-service client is replaced automatically, with a short retry delay. A stalled service connection is restarted after 30 seconds. Each direct browser connection attempt is allowed up to 45 seconds, then retried while the tab remains open. The name, room code, and seat token remain in the same browser tab. Stale open channels are replaced rather than waiting forever. Obsolete callbacks cannot close a replacement connection. Explicit admission errors, such as a full or already-started room, are shown instead of being hidden by repeated retries.
+
+Teacher recovery preserves the same room and saved game in the current tab. Start and Copy student link remain disabled until the room is registered with the connection service. Room updates from simultaneous student actions are batched briefly, while the submitting student receives an immediate state acknowledgment.
+
+The public game page URL has no per-game expiration, but the live room still depends on the teacher tab and external connection services. These recovery changes do not provide a central server, guarantee access on restricted networks, or guarantee 40 real-device connections. Run a full-roster school-network rehearsal. A centrally hosted real-time room service is the recommended next architecture for reducing direct browser-connection and teacher-device dependence in larger classes.
+
+Run `node tests/connections.test.cjs` for recovery scenarios as well as `node tests/engine.test.cjs` for game rules. The fixed 30-second question deadline is unchanged; recovery never automatically resubmits a late answer.
+
